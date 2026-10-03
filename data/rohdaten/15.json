@@ -1,0 +1,59 @@
+{
+ "pos": 15,
+ "id": 446453,
+ "averageRating": 7.8,
+ "numRatings": 42,
+ "weight": 2.33,
+ "designers": [
+  "Gilles Turbide"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "45–60 Min",
+ "descriptionEn": "Kalypso is a tile-laying survival game where players build floating settlements in a world swallowed by the sea. Players draft tiles and expand their settlement while managing resources, placing structures, and guiding survivors across platforms. Play can be solo, cooperatively, or competitively with modular objectives and escalating difficulty.",
+ "descriptionDe": "Kalypso ist ein Plättchenlegespiel ums Überleben in einer vom Meer verschlungenen Welt. Ihr ergänzt euer schwimmendes Dorf durch gedraftete Plättchen, verwaltet Ressourcen, platziert Gebäude und führt Überlebende über die Plattformen. Gespielt wird solo, kooperativ oder gegeneinander mit modularen Zielen und steigendem Schwierigkeitsgrad.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Kalypso Name Pending - German edition",
+  "publishers": [
+   "Pegasus Spiele"
+  ]
+ },
+ "germanTitle": "Kalypso",
+ "shops": [
+  {
+   "found": true,
+   "productName": "Kalypso",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Kalypso-1034263.html",
+   "price": 47.89,
+   "availabilityText": "Ware wurde bereits nachbestellt, aber Lieferzeitwarnung liegt vor.",
+   "availableNow": false,
+   "releaseDate": null,
+   "shop": "Spiele-Offensive"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "Spieletastisch: no product found (searches for Kalypso returned nothing relevant). Spielefürst: not found. German publisher Pegasus (standard and deluxe editions on BGG); SO price 47.89."
+}

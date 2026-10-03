@@ -1,0 +1,59 @@
+{
+ "pos": 24,
+ "id": 463296,
+ "averageRating": 7.9,
+ "numRatings": 254,
+ "weight": 2.17,
+ "designers": [
+  "Kosch"
+ ],
+ "yearPublished": 2026,
+ "players": "2–5",
+ "playingTime": "60 Min",
+ "descriptionEn": "Attract wildlife to your very own version of America's most popular national park. Forest Shuffle - Smoky Mountains takes us to this North American National Park and introduces new species and clever twists in mechanics.",
+ "descriptionDe": "In diesem eigenständigen Spiel der Mischwald-Reihe lockst du Tiere und Pflanzen in deine eigene Version des beliebten Great-Smoky-Mountains-Nationalparks. Neue Arten sowie Fluss-Karten und Fische sorgen für frische Mechanik-Kniffe im Set-Collection-Kartenspiel.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Mischwald: Smoky Mountains",
+  "publishers": [
+   "Lookout Games"
+  ]
+ },
+ "germanTitle": "Mischwald: Smoky Mountains",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "Mischwald Smoky Mountains (eigenständiges Spiel)",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Mischwald-Smoky-Mountains-eigenstaendiges-Spiel-1034693.html",
+   "price": 25.89,
+   "availabilityText": "Vorbestellbar, erscheint voraussichtlich ab Ende Oktober 2026",
+   "availableNow": false,
+   "releaseDate": "Ende Oktober 2026 (2026-10-31)"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Mischwald - Smoky Mountains",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11365-mischwald-smoky-mountains",
+   "price": 26.95,
+   "availabilityText": "Vorbestellbar",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026"
+  }
+ ],
+ "notes": "Standalone game (not an expansion). Spielefürst: searched 'Forest Shuffle Smoky Mountains' and 'Mischwald Smoky' - only other Mischwald products, not this game."
+}

@@ -1,0 +1,61 @@
+{
+ "pos": 7,
+ "id": 457410,
+ "averageRating": 8.5,
+ "numRatings": 58,
+ "weight": 3.25,
+ "designers": [
+  "Jindřich Pavlásek",
+  "Michal Peichl",
+  "Petr Vojtěch"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "120 Min",
+ "descriptionEn": "Set foot in mythical Prague in the 19th century, when fantastical creatures walked the streets freely. Meet helpful Golems, cunning Horned, resourceful Robots or eccentric Vodniks. Use their unique meeples to calm the river Vltava, rebuild the flooded centre, and control the city's fate. This euro-style worker placement game lets players build their own action spaces, participate in four distinct mini-games based on the myth-infused history of Prague, gain unique abilities, and fight over influence in four neighbourhoods.",
+ "descriptionDe": "Ihr betretet das mythische Prag des 19. Jahrhunderts, in dem fantastische Wesen wie Golems, Gehörnte, Roboter und Wassermänner frei durch die Straßen ziehen. Mit ihren einzigartigen Meeples besänftigt ihr die Moldau, baut das überflutete Zentrum wieder auf und lenkt das Schicksal der Stadt. Das Euro-Worker-Placement lässt euch eigene Aktionsfelder bauen, vier Mini-Spiele bestreiten und um Einfluss in vier Vierteln ringen.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Prag im Verborgenen",
+  "publishers": [
+   "Brettspielloesung (BSL Games)"
+  ]
+ },
+ "germanTitle": "Prag im Verborgenen",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "Prag im Verborgenen",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Prag-im-Verborgenen-1034835.html",
+   "price": 49.89,
+   "availabilityText": "\"Prag im Verborgenen\" ist voraussichtlich ab Ende Oktober 2026 wieder lieferbar.",
+   "availableNow": false,
+   "releaseDate": "Ende Oktober 2026"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Prag im Verborgenen",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11814-prag-im-verborgenen",
+   "price": 49.95,
+   "availabilityText": "Vorbestellbar",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026"
+  }
+ ],
+ "notes": "Spielefürst: no match for 'Prag im Verborgenen'. Other seen: brettspielloesung.de (publisher shop) 54,95 EUR preorder; spieletaxi 53,99 EUR."
+}

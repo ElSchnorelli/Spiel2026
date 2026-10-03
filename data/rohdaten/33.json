@@ -1,0 +1,54 @@
+{
+ "pos": 33,
+ "id": 447776,
+ "averageRating": 7.5,
+ "numRatings": 1000,
+ "weight": 2.95,
+ "designers": [
+  "Ben Rosset"
+ ],
+ "yearPublished": 2026,
+ "players": "1–6",
+ "playingTime": "60–90 Min",
+ "descriptionEn": "Your office job has been grinding you down. Then you receive a letter informing you that a long-lost relative has bequeathed you a factory. Players are board game manufacturers racing to build the greatest collection of classic modern board games. Hire staff, build an assembly line, add structures, fulfil contracts and market your games; build over 300 real-world games from over 100 publishers.",
+ "descriptionDe": "Als frischgebackener Fabrikerbe steigt man in The Game Makers zum Brettspiel-Hersteller auf. Man stellt Personal ein, baut Fließbänder und Gebäude, erfüllt Verträge und produziert reale moderne Brettspiele (über 300 Titel von über 100 Verlagen). Das Spiel versteht sich als Liebeserklärung an das Hobby.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "The Game Makers",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "BGG-Rating 7.5 bei 1000 numRatings (Zahl evtl. gerundet/ca., reviewCount 1033). Nur englische Ausgabe von Bézier Games. In keinem der drei Shops gefunden."
+}

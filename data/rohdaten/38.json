@@ -1,0 +1,61 @@
+{
+ "pos": 38,
+ "id": 446815,
+ "averageRating": 8.1,
+ "numRatings": 515,
+ "weight": 2.41,
+ "designers": [
+  "Randy Flynn"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "30–45 Min",
+ "descriptionEn": "Cascadia: Alpine Lakes is a standalone follow-up to the hit spatial puzzle game Cascadia. Players draft new double-hexagon habitat tiles and unique wildlife tokens to build out their landscape mosaic.",
+ "descriptionDe": "Cascadia: Bergseen ist ein eigenständiger Nachfolger des Legespiels Cascadia. Man wählt neue Doppel-Sechseck-Habitatplättchen und Tierplättchen und legt daraus eine alpine Landschaft. Es ist ein entspanntes Legepuzzle für 1 bis 4 Personen in 30 bis 45 Minuten.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Cascadia: Bergseen",
+  "publishers": [
+   "KOSMOS",
+   "Alderac Entertainment Group",
+   "Flatout Games"
+  ]
+ },
+ "germanTitle": "Cascadia: Bergseen",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "Cascadia Bergseen",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Cascadia-Bergseen-1034820.html",
+   "price": 32.89,
+   "availabilityText": "auf Lager 1-3 Tage, max. 1 Woche",
+   "availableNow": true,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Bergseen - Cascadia",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/12055-bergseen-cascadia",
+   "price": 35.95,
+   "availabilityText": "Vorbestellung",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026"
+  }
+ ],
+ "notes": "Spielefürst-Suche (Cascadia Bergseen / Bergseen) ohne Treffer. Spieletastisch zeigt auch EN-Ausgabe (produkte/10364-cascadia-alpine-lakes-en), nicht weiter ausgewertet. Spiele-Offensive: 'auf Lager' trotz Erscheinungsmonat Oktober 2026 laut Spieletastisch."
+}

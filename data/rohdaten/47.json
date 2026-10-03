@@ -1,0 +1,59 @@
+{
+ "pos": 47,
+ "id": 424981,
+ "averageRating": 8.2,
+ "numRatings": 3200,
+ "weight": 2.83,
+ "designers": [
+  "Hiroken"
+ ],
+ "yearPublished": 2025,
+ "players": "1–4",
+ "playingTime": "30–40 Min",
+ "descriptionEn": "Eternal Decks is a limited communication co-operative game in which players try to complete stage objectives before any player cannot take an action. Players start with five cards but aim to acquire more from various Eternals. The game has six stages with unique challenges.",
+ "descriptionDe": "Eternal Decks ist ein kooperatives Kartenspiel mit eingeschränkter Kommunikation. Gemeinsam müsst ihr die Ziele jeder Stufe erfüllen, bevor einer von euch keine Aktion mehr ausführen kann. Ihr startet mit fünf Karten und erwerbt weitere von den Ewigen; sechs Stufen bieten jeweils eigene Herausforderungen.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Eternal Decks (DE)",
+  "publishers": [
+   "Strohmann Games"
+  ]
+ },
+ "germanTitle": "Eternal Decks",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "Eternal Decks",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Eternal-Decks-1035488.html",
+   "price": 35.89,
+   "availabilityText": "Eternal Decks erwarten wir ca. Ende Dezember (Vorbestellung)",
+   "availableNow": false,
+   "releaseDate": "Ende Dezember 2026"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": true,
+   "productName": "Eternal Decks | Vorbestellung",
+   "edition": "DE",
+   "url": "https://spielefuerst.de/products/eternal-decks",
+   "price": 37.5,
+   "availabilityText": "Vorbestellartikel, Lieferdatum Dezember 2026",
+   "availableNow": false,
+   "releaseDate": "Dezember 2026"
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Eternal Decks (DE)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/12095-eternal-decks-de",
+   "price": 35.95,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Dezember 2026",
+   "availableNow": false,
+   "releaseDate": "Dezember 2026"
+  }
+ ],
+ "notes": "German edition by Strohmann Games per shops (tag 'Sprache: Deutsch'); BGG versions page not scraped (rate limit). BGG year 2025 (original)."
+}

@@ -1,0 +1,55 @@
+{
+ "pos": 34,
+ "id": 474888,
+ "averageRating": 7.9,
+ "numRatings": 6,
+ "weight": 3.0,
+ "designers": [
+  "David Bernal",
+  "Eugeni Castaño"
+ ],
+ "yearPublished": 2027,
+ "players": "1–4",
+ "playingTime": "60–120 Min",
+ "descriptionEn": "A strategic eurogame of route building, dice management inspired by the Book Women.",
+ "descriptionDe": "The Book Women ist ein strategisches Eurogame um Routenbau und Würfelmanagement, inspiriert von den historischen Bibliotheksreiterinnen (Book Women). Es ist für 1 bis 4 Personen gedacht und soll 2027 erscheinen.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "The Book Women",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "Nur 6 Bewertungen. Erscheinungsjahr 2027. Salt & Pepper Games (EN/ES). Keine deutsche Ausgabe bekannt; in keinem Shop gefunden."
+}

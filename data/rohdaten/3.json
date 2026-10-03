@@ -1,0 +1,62 @@
+{
+ "pos": 3,
+ "id": 462941,
+ "averageRating": 7.7,
+ "numRatings": 660,
+ "weight": 3.57,
+ "designers": [
+  "Tommaso Battista",
+  "Simone Luciani",
+  "Nestore Mangone"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "90–150 Min",
+ "descriptionEn": "For aeons, entropy was an inescapable force of nature. But then humanity learned to harness and bend it. You are an apprentice scientist taking the final exam: create solar systems, coax stars into life, shape biomes and seed planets with life. Each turn you move your Scientist 1 to 3 spaces clockwise around the main board and resolve an action; you build Solar Systems with Stars, Planets and Asteroids, fill them with Life via cards, and gain abilities through Biomes and Console upgrades. The game ends when 2 of 6 Main Objectives are completed; most Victory Points wins.",
+ "descriptionDe": "In Entropy seid ihr Lehrlinge, die in einer Abschlussprüfung Sonnensysteme erschaffen, Sterne zum Leben erwecken, Biome formen und Planeten mit Leben besiedeln. Ihr zieht euren Wissenschaftler jede Runde 1 bis 3 Felder im Uhrzeigersinn über das Hauptspielbrett und führt die erreichte Aktion aus. Das Spiel endet, sobald zwei von sechs Hauptzielen erfüllt sind; wer dann die meisten Siegpunkte hat, gewinnt.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Entropy Name Pending - German edition",
+  "publishers": [
+   "Board&Dice",
+   "Frosted Games"
+  ]
+ },
+ "germanTitle": "Entropy",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "Entropy",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Entropy-1034973.html",
+   "price": 49.39,
+   "availabilityText": "Ware wurde bereits nachbestellt, aber Lieferzeitwarnung liegt vor.",
+   "availableNow": false,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": true,
+   "productName": "Entropy",
+   "edition": "DE",
+   "url": "https://spielefuerst.de/products/entropy",
+   "price": 49.9,
+   "availabilityText": "available=true (Shopify), tags: Sprache: Deutsch, Neuerscheinungen, kein Vorbestellartikel",
+   "availableNow": true,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Entropy (DE)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11538-entropy-de",
+   "price": 49.95,
+   "availabilityText": "Sofort versandfertig, Lieferfrist 1-3 Werktage.",
+   "availableNow": true,
+   "releaseDate": "Oktober 2026"
+  }
+ ],
+ "notes": "Spielefürst availability inferred from Shopify 'available' flag in suggest.json (product page not scraped). Spieletastisch also lists EN edition (Board & Dice, 44,95 EUR)."
+}

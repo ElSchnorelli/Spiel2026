@@ -1,0 +1,55 @@
+{
+ "pos": 4,
+ "id": 462479,
+ "averageRating": 8.1,
+ "numRatings": 32,
+ "weight": 2.67,
+ "designers": [
+  "Kenneth Minde",
+  "Kristian Amundsen Østby"
+ ],
+ "yearPublished": 2026,
+ "players": "1–5",
+ "playingTime": "90 Min",
+ "descriptionEn": "Timespan is a streamlined, friendly and highly varied civilization game from the designers of Automania and Bad Company. Combine one of six asymmetric civilizations with one of six unique technology boards, and customize your civilization further by recruiting among 175 historic persons, buildings, technologies and wonders. Large parts of the game are played simultaneously, allowing you to lead your civilization from the stone age to the space age in about 90 minutes. There is no warfare.",
+ "descriptionDe": "Timespan ist ein schlankes, freundliches und abwechslungsreiches Zivilisationsspiel ohne Kriegsführung. Ihr kombiniert eine von sechs asymmetrischen Zivilisationen mit einem von sechs Technologietableaus und rekrutiert aus 175 historischen Persönlichkeiten, Gebäuden, Technologien und Wundern. Große Teile des Spiels laufen gleichzeitig ab, sodass ihr eure Zivilisation in etwa 90 Minuten von der Steinzeit ins Weltraumzeitalter führt.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Timespan",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Timespan (EN)",
+   "edition": "EN",
+   "url": "https://www.spieletastisch.de/produkte/11418-timespan-en",
+   "price": 54.95,
+   "availabilityText": "Vorbesteller",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026"
+  }
+ ],
+ "notes": "BGG versions list only English (Alion – by Dr Ø); no German edition listed. Spieletastisch sells EN edition only. Spiele-Offensive scrape returned implausible placeholder items (Istanbul, Ark Nova, Catan, Wingspan with 2023 dates) -> treated as not found. Spielefürst: no match."
+}

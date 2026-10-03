@@ -1,0 +1,61 @@
+{
+ "pos": 5,
+ "id": 465669,
+ "averageRating": 7.9,
+ "numRatings": 795,
+ "weight": 2.67,
+ "designers": [
+  "Roman Bednář",
+  "Adam Španěl"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "30–120 Min",
+ "descriptionEn": "In Drillers, players explore an abandoned mine using their mechs, trying to find and excavate anything useful or valuable left behind by a forgotten mining corporation. Each level of the mine brings new opportunities and challenges as fuel runs low. By collecting cards, players improve the drilling capabilities of their unique mech, unlock new actions and push their operation further underground. Mined minerals can be sold for profit, also by use of drones. Every decision affects everyone.",
+ "descriptionDe": "In Drillers erkundet ihr mit euren Mechs eine verlassene Mine und fördert Wertvolles zutage, das ein vergessener Bergbaukonzern zurückgelassen hat. Mit gesammelten Karten verbessert ihr die Bohrfähigkeiten eures einzigartigen Mechs und schaltet neue Aktionen frei, während der Treibstoff knapp wird. Gefördertes Gestein verkauft ihr mit Gewinn, auch mithilfe von Drohnen – und jede Entscheidung beeinflusst alle Mitspielenden.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Drillers Name Pending - German edition",
+  "publishers": [
+   "Czech Games Edition (CGE)",
+   "HeidelBÄR Games"
+  ]
+ },
+ "germanTitle": "Drillers",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "Drillers",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Drillers-1034365.html",
+   "price": 40.89,
+   "availabilityText": "jetzt vorbestellen. \"Drillers \" erscheint voraussichtlich Q4 2026",
+   "availableNow": false,
+   "releaseDate": "Q4 2026"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Drillers (DE)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/10924-drillers-de",
+   "price": 44.95,
+   "availabilityText": "Vorbestellbar",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026"
+  }
+ ],
+ "notes": "Spielefürst suggest search returned only unrelated Army Painter items. Accessories 'Drillers Deluxe/Upgraded Components' exist at SO/Spieletastisch but not used."
+}

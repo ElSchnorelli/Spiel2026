@@ -1,0 +1,60 @@
+{
+ "pos": 40,
+ "id": 474854,
+ "averageRating": 9.0,
+ "numRatings": 4,
+ "weight": null,
+ "designers": [
+  "Christian Kudahl",
+  "Laura Kudahl"
+ ],
+ "yearPublished": 2026,
+ "players": "2–4",
+ "playingTime": "10–20 Min",
+ "descriptionEn": "Four Seasons introduces four new maps and two unique agents!",
+ "descriptionDe": "Four Seasons ist eine Erweiterung für das Bluff-Duell Agent Avenue und bringt vier neue Karten sowie zwei einzigartige Agenten ins Spiel. Es ist für 2 bis 4 Personen gedacht und passt zu kurzen Partien von 10 bis 20 Minuten.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Agent Avenue: Four Seasons (German edition)",
+  "publishers": [
+   "Nerdlab Games"
+  ]
+ },
+ "germanTitle": "Agent Avenue: Four Seasons",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Four Seasons - Agent Avenue (DE) (Erweiterung)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11911-four-seasons-agent-avenue-de-erweiterung",
+   "price": 11.95,
+   "availabilityText": "Vorbestellung",
+   "availableNow": false,
+   "releaseDate": "Dezember 2026"
+  }
+ ],
+ "notes": "Erweiterung zu Agent Avenue. Nur 4 Bewertungen; BGG-Weight 0 -> null. Spielefürst führt Agent Avenue (Basis, 17,30 EUR) und Division M (12,90 EUR), aber Four Seasons nicht. Spiele-Offensive: kein Treffer."
+}

@@ -1,0 +1,59 @@
+{
+ "pos": 29,
+ "id": 462932,
+ "averageRating": 8.1,
+ "numRatings": 39,
+ "weight": 3.5,
+ "designers": [
+  "Sebastian Bleasdale"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "30–120 Min",
+ "descriptionEn": "In Wildscape you restore barren lands in Africa with rich habitats (woodlands, wetlands, savanna, deserts, rivers) so a diverse animal ecosystem can return. Expand your land with habitat tiles to meet common and personal objectives, attract herbivores, predators and primates, hire specialists, and choose actions on a community roundel where action tokens cascade around. Most valuable ecosystem wins.",
+ "descriptionDe": "In Wildscape renaturierst du karge Landstriche in Afrika mit Wäldern, Feuchtgebieten, Savannen, Wüsten und Flüssen, damit eine vielfältige Tierwelt zurückkehren kann. Du legst Habitat-Plättchen passend zu gemeinsamen und persönlichen Zielen an, lockst Pflanzenfresser, Raubtiere und Primaten an und heuerst Spezialisten an. Die Aktionswahl auf einem gemeinsamen Rondell, auf dem die Aktionsmarker weiterwandern, macht jede Entscheidung knifflig.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Wildscape (German edition)",
+  "publishers": [
+   "Karma Games"
+  ]
+ },
+ "germanTitle": "Wildscape",
+ "notes": "German edition by Karma Games exists (fully localized edition, preorder via store.karma-games.com/de, also sold at SPIEL Essen). Not found at Spiele-Offensive (empty result), Spielefürst (unrelated result) or Spieletastisch (site search empty); further domain-restricted web searches also empty. SO search box is quirky so a listing cannot be 100% excluded.",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ]
+}

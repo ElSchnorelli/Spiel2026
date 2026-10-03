@@ -1,0 +1,55 @@
+{
+ "pos": 39,
+ "id": 450539,
+ "averageRating": 8.0,
+ "numRatings": 130,
+ "weight": 3.0,
+ "designers": [
+  "Eloi Pujadas",
+  "Ferran Renalias"
+ ],
+ "yearPublished": 2026,
+ "players": "2",
+ "playingTime": "30–45 Min",
+ "descriptionEn": "The Glasgow Train Robbery is a co-operative game for two players inspired by one of the most infamous crimes in British history. Set in 1960s Scotland, you and your partner take on the roles of two key members of a criminal crew determined to intercept and rob a high-value train without getting caught.",
+ "descriptionDe": "The Glasgow Train Robbery ist ein kooperatives Spiel für zwei Personen, inspiriert vom berüchtigten Postzugraub von 1963. Als zwei Mitglieder einer Gaunerbande wollen die Spielenden einen wertvollen Zug überfallen, ohne erwischt zu werden. Eine Partie dauert etwa 30 bis 45 Minuten.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "The Glasgow Train Robbery",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "Nur EN/ES (Salt & Pepper Games). In keinem Shop gefunden. (Die BGG-Versionenseite listet zudem fremde Einträge; ignoriert.)"
+}

@@ -1,0 +1,60 @@
+{
+ "pos": 50,
+ "id": 421246,
+ "averageRating": 8.4,
+ "numRatings": 115,
+ "weight": 3.0,
+ "designers": [
+  "Dominik Schönleben",
+  "Francesco Grothe"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "90–120 Min",
+ "descriptionEn": "In Neon Hope, you have the chance to fight back against cyberpunk's grim vision of the future. Set in the not-too-distant future, you and your friends take on the roles of everyday people stumbling into a plot much bigger than you could ever prepare for. This game takes interactive storytelling to the next level, where your decisions will shape a branching narrative.",
+ "descriptionDe": "In Neon Hope wehrst du dich gegen die düstere Zukunftsvision des Cyberpunk. Du und deine Freunde spielt gewöhnliche Menschen, die in eine viel größere Verschwörung stolpern. Eure Entscheidungen formen eine verzweigte Erzählung; mit den richtigen Karten könnt ihr eine dystopische Zukunft noch abwenden.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Neon Hope - Grundspiel (DE)",
+  "publishers": [
+   "Unknown (German designers; publisher not verified)"
+  ]
+ },
+ "germanTitle": "Neon Hope",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "Neon Hope - Grundspiel",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Neon-Hope-Grundspiel-1035207.html",
+   "price": 99.0,
+   "availabilityText": "Lieferzeit 1-3 Tage, max. 1 Woche (auf Lager, laut Seite sofort versandfertig am 03.10.2026)",
+   "availableNow": true,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "Language DE inferred from product code/context on Spiele-Offensive (WebFetch summary), BGG versions page not scraped. Spiele-Offensive also lists Deluxe Upgrade Pack (89 EUR) and Charakter-Erweiterung (49 EUR), not recorded. Spielefürst/Spieletastisch: none found. BGG price list suggests 99.95-129 EUR."
+}

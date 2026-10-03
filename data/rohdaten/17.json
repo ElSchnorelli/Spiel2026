@@ -1,0 +1,60 @@
+{
+ "pos": 17,
+ "id": 472690,
+ "averageRating": 7.5,
+ "numRatings": 17,
+ "weight": 2.5,
+ "designers": [
+  "Johan Benvenuto",
+  "Mathieu Rivero"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": null,
+ "descriptionEn": "The Crescendo expansion for Harmonies includes 3 new modules that can be used individually or in combination. Introduces Sanctuaries, new personal game boards, and Whisper Creatures with added cards for synergies.",
+ "descriptionDe": "Crescendo ist eine Erweiterung für Harmonies mit drei neuen Modulen, die einzeln oder kombiniert gespielt werden können. Sie bringt Schutzgebiete, neue persönliche Spielpläne und Flüsterwesen mit zusätzlichen Karten für neue Synergien.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Harmonie: Klang der Wildnis",
+  "publishers": [
+   "Libellud"
+  ]
+ },
+ "germanTitle": "Harmonies: Im Klang der Wildnis",
+ "shops": [
+  {
+   "found": true,
+   "productName": "Harmonies | Im Klang der Wildnis - Erweiterung",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Harmonies-Im-Klang-der-Wildnis-Erweiterung-1034857.html",
+   "price": 15.49,
+   "availabilityText": "jetzt vorbestellen. \"Harmonies | Im Klang der Wildnis - Erweiterung\" ist voraussichtlich ab Mitte Oktober 2026 lieferbar.",
+   "availableNow": false,
+   "releaseDate": "Mitte Oktober 2026",
+   "shop": "Spiele-Offensive"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "found": true,
+   "productName": "Klang der Wildnis - Harmonies (DE) (Erweiterung)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11471-klang-der-wildnis-harmonies-de-erweiterung",
+   "price": 15.95,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026",
+   "shop": "Spieletastisch"
+  }
+ ],
+ "notes": "Expansion for Harmonies. BGG playingTime not provided. German title per BGG 'Harmonie: Klang der Wildnis'; shops: 'Klang der Wildnis'/'Im Klang der Wildnis'. Spielefürst: not found."
+}

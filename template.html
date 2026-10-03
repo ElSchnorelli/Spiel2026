@@ -1,0 +1,244 @@
+<title>Spiel 2026 Top 50</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
+<style>
+/* Layout: sticky filter bar over a single column of game "Spielkarten" — cover | facts | shop table; stacks on phones */
+:root {
+  --bg: #eef1f4;
+  --surface: #ffffff;
+  --ink: #18202b;
+  --muted: #5b6676;
+  --line: #d6dce4;
+  --accent: #0d6e7a;
+  --accent-soft: #d9eef0;
+  --gold: #b7791f;
+  --ok: #1f7a3a;
+  --ok-soft: #dcf1e2;
+  --warn: #9a5b00;
+  --warn-soft: #fbecd2;
+  --none: #8a94a3;
+  --hex-ink: #ffffff;
+  --display: "Archivo", "Arial Narrow", system-ui, sans-serif;
+  --body: "Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11161d; --surface: #1a212b; --ink: #e8edf3; --muted: #9aa6b6; --line: #2c3644;
+  --accent: #4fc1cc; --accent-soft: #163a40; --gold: #e0a84a; --ok: #5fcf83; --ok-soft: #173826;
+  --warn: #f0b456; --warn-soft: #3a2a10; --none: #6f7a8a; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11161d; --surface: #1a212b; --ink: #e8edf3; --muted: #9aa6b6; --line: #2c3644;
+  --accent: #4fc1cc; --accent-soft: #163a40; --gold: #e0a84a; --ok: #5fcf83; --ok-soft: #173826;
+  --warn: #f0b456; --warn-soft: #3a2a10; --none: #6f7a8a; color-scheme: dark }
+
+body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.5; }
+.wrap { max-width: 1180px; margin: 0 auto; padding-inline: 16px; padding-block: 28px 64px; }
+header.top { display: grid; gap: 6px; margin-bottom: 18px; }
+.eyebrow { font-family: var(--display); font-stretch: 110%; font-weight: 700; font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); }
+h1 { font-family: var(--display); font-stretch: 75%; font-weight: 850; font-size: clamp(34px, 6vw, 56px); line-height: .95; margin: 0; text-wrap: balance; }
+.lede { color: var(--muted); max-width: 70ch; margin: 4px 0 0; }
+.lede a { color: var(--accent); }
+
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); padding-block: 10px; margin-bottom: 14px; border-bottom: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
+.bar input[type=search], .bar select { font: inherit; font-size: 14px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 7px 10px; }
+.bar input[type=search] { flex: 1 1 220px; min-width: 0; }
+.chk { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; cursor: pointer; user-select: none; white-space: nowrap; }
+.chk input { accent-color: var(--accent); width: 16px; height: 16px; }
+.count { margin-left: auto; color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.list { display: grid; gap: 12px; }
+.game { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px; display: grid; grid-template-columns: 112px minmax(0, 1fr) minmax(0, 370px); gap: 18px; align-items: start; }
+.cover { position: relative; width: 112px; }
+.cover img { width: 112px; height: 112px; object-fit: contain; border-radius: 6px; background: var(--bg); display: block; }
+.rank { position: absolute; top: -8px; left: -8px; background: var(--ink); color: var(--surface); font-family: var(--display); font-weight: 800; font-size: 14px; min-width: 30px; height: 30px; padding: 0 6px; border-radius: 15px; display: grid; place-items: center; font-variant-numeric: tabular-nums; }
+.ph { width: 100%; aspect-ratio: 1; border-radius: 6px; background: var(--accent-soft); color: var(--accent); display: grid; place-items: center; font-family: var(--display); font-stretch: 75%; font-weight: 850; font-size: 34px; }
+.main { min-width: 0; display: grid; gap: 8px; }
+.title { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+.title h2 { font-family: var(--display); font-stretch: 85%; font-weight: 780; font-size: 22px; line-height: 1.1; margin: 0; }
+.title h2 a { color: inherit; text-decoration: none; }
+.title h2 a:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+.detitle { color: var(--muted); font-size: 13px; }
+.authors { color: var(--muted); font-size: 14px; }
+.desc { margin: 0; max-width: 68ch; }
+.facts { display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; }
+.fact { display: inline-flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); }
+.fact b { color: var(--ink); font-size: 15px; font-variant-numeric: tabular-nums; }
+.hex { width: 38px; height: 42px; display: grid; place-items: center; clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%); color: var(--hex-ink); font-family: var(--display); font-weight: 800; font-size: 14px; font-variant-numeric: tabular-nums; }
+.pips { display: inline-flex; gap: 3px; }
+.pip { width: 10px; height: 10px; border-radius: 3px; background: var(--line); position: relative; overflow: hidden; }
+.pip i { position: absolute; inset: 0 auto 0 0; background: var(--gold); }
+.badge { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 700; padding: 3px 9px; border-radius: 999px; max-width: 100%; }
+.badge.de { background: var(--ok-soft); color: var(--ok); }
+.badge.nde { background: var(--bg); color: var(--muted); border: 1px solid var(--line); }
+.badge.exp { background: var(--accent-soft); color: var(--accent); }
+
+.shops { min-width: 0; border-left: 1px solid var(--line); padding-left: 16px; display: grid; gap: 2px; }
+.shops h3 { font-family: var(--display); font-stretch: 110%; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 0 0 4px; font-weight: 700; }
+.shop { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 10px; padding: 7px 0; border-top: 1px dashed var(--line); }
+.shop:first-of-type { border-top: 0; }
+.shop .sn { font-weight: 700; font-size: 14px; }
+.shop .sn a { color: var(--ink); text-decoration: none; }
+.shop .sn a:hover { color: var(--accent); text-decoration: underline; }
+.shop .pr { font-family: var(--display); font-weight: 800; font-size: 17px; text-align: right; font-variant-numeric: tabular-nums; }
+.shop.best .pr { color: var(--accent); }
+.shop .bestmark { font-size: 11px; font-weight: 700; color: var(--accent); margin-left: 6px; }
+.shop .av { grid-column: 1 / -1; font-size: 13px; display: flex; align-items: center; gap: 6px; color: var(--muted); }
+.dot { width: 8px; height: 8px; border-radius: 50%; flex: none; background: var(--none); }
+.av.now .dot { background: var(--ok); } .av.now { color: var(--ok); }
+.av.later .dot { background: var(--warn); } .av.later { color: var(--warn); }
+.shop.missing .sn, .shop.missing .pr { color: var(--none); font-weight: 400; }
+.ed { font-size: 11px; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 0 4px; margin-left: 6px; font-weight: 700; }
+.empty { text-align: center; color: var(--muted); padding: 40px 0; }
+footer { margin-top: 28px; color: var(--muted); font-size: 13px; display: grid; gap: 6px; max-width: 80ch; }
+footer a { color: var(--accent); }
+
+@media (max-width: 900px) {
+  .game { grid-template-columns: 88px minmax(0, 1fr); }
+  .cover, .cover img { width: 88px; } .cover img { height: 88px; }
+  .shops { grid-column: 1 / -1; border-left: 0; padding-left: 0; border-top: 1px solid var(--line); padding-top: 10px; }
+}
+@media (max-width: 480px) {
+  .game { grid-template-columns: 64px minmax(0, 1fr); gap: 12px; padding: 12px; }
+  .cover, .cover img { width: 64px; } .cover img { height: 64px; } .ph { font-size: 22px; }
+  .title h2 { font-size: 19px; }
+  .count { margin-left: 0; width: 100%; }
+}
+@media (prefers-reduced-motion: no-preference) { .game { transition: border-color .15s; } .game:hover { border-color: var(--accent); } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div class="eyebrow">SPIEL Essen 2026 · Most Wanted</div>
+    <h1>Spiel 2026 Top 50</h1>
+    <p class="lede">Die 50 meistgesuchten Spiele aus dem <a href="https://boardgamegeek.com/geeklist/381572/spiel-26-most-wanted-games-tracker" target="_blank" rel="noopener">BGG Most-Wanted-Tracker</a>, mit BGG-Bewertung, Komplexität, deutscher Ausgabe und Preisen bei Spiele-Offensive, Spielefürst und Spieletastisch. Stand: <span id="stand"></span>.</p>
+  </header>
+
+  <div class="bar" role="search">
+    <input type="search" id="q" placeholder="Spiel, Autor oder Verlag suchen …" aria-label="Suchen">
+    <select id="sort" aria-label="Sortieren">
+      <option value="pos">Sortierung: Tracker-Platz</option>
+      <option value="rating">Beste BGG-Bewertung</option>
+      <option value="weight-asc">Komplexität: leicht zuerst</option>
+      <option value="weight-desc">Komplexität: schwer zuerst</option>
+      <option value="price">Günstigster Preis</option>
+    </select>
+    <label class="chk"><input type="checkbox" id="fde"> Nur mit deutscher Ausgabe</label>
+    <label class="chk"><input type="checkbox" id="fnow"> Nur sofort lieferbar</label>
+    <label class="chk"><input type="checkbox" id="fshop"> Nur in einem Shop gelistet</label>
+    <span class="count" id="count"></span>
+  </div>
+
+  <main class="list" id="list"></main>
+
+  <footer>
+    <div><b>Bewertung</b> ist der BGG-Durchschnitt (1–10), in Klammern die Anzahl der Stimmen. Bei Neuheiten mit wenigen Stimmen ist der Wert noch wackelig. <b>Komplexität</b> ist das BGG-„Weight“ von 1 (leicht) bis 5 (schwer).</div>
+    <div><b>Deutsche Ausgabe</b> laut Reiter „Versions“ auf BoardGameGeek. <b>Preise und Verfügbarkeit</b> sind eine Momentaufnahme vom Erhebungszeitpunkt; ein Klick auf den Shopnamen öffnet die Produktseite.</div>
+  </footer>
+</div>
+
+<script>
+const DATA = /*DATA*/null;
+const META = /*META*/null;
+const SHOPS = ["Spiele-Offensive", "Spielefürst", "Spieletastisch"];
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmtEUR = n => n == null ? "–" : n.toLocaleString("de-DE", { style: "currency", currency: "EUR" });
+const fmt1 = (n, d = 1) => n == null ? "–" : n.toLocaleString("de-DE", { minimumFractionDigits: d, maximumFractionDigits: d });
+
+// BGG-style rating colours
+function hexColor(r) {
+  if (r == null) return "var(--none)";
+  if (r >= 9) return "#186b40"; if (r >= 8) return "#1d804c"; if (r >= 7) return "#1978b3";
+  if (r >= 6) return "#5369a2"; if (r >= 5) return "#5d3e91"; if (r >= 4) return "#d71925"; return "#b2151f";
+}
+const initials = n => n.replace(/[^\p{L}\p{N} ]/gu, ' ').split(/\s+/).filter(Boolean).slice(0, 2).map(w => w[0].toUpperCase()).join('') || '?';
+function pips(w) {
+  if (w == null) return '<span class="pips" aria-hidden="true">' + '<span class="pip"></span>'.repeat(5) + '</span>';
+  let h = '<span class="pips" aria-hidden="true">';
+  for (let i = 1; i <= 5; i++) { const f = Math.max(0, Math.min(1, w - (i - 1))); h += `<span class="pip"><i style="width:${f*100}%"></i></span>`; }
+  return h + '</span>';
+}
+const shopOf = (g, name) => (g.shops || []).find(s => s.shop === name) || { shop: name, found: false };
+const found = g => (g.shops || []).filter(s => s.found && s.price != null);
+const bestPrice = g => { const f = found(g); return f.length ? Math.min(...f.map(s => s.price)) : null; };
+const anyNow = g => found(g).some(s => s.availableNow);
+
+function availHtml(s) {
+  if (!s.found) return '<div class="av"><span class="dot"></span>nicht gefunden</div>';
+  const cls = s.availableNow ? "now" : "later";
+  let t = s.availableNow ? "sofort lieferbar" : (s.releaseDate ? "ab " + s.releaseDate : (s.availabilityText || "nicht sofort lieferbar"));
+  if (!s.availableNow && s.availabilityText && s.releaseDate && !/^ab /i.test(t)) t = s.availabilityText;
+  const title = s.availabilityText ? ` title="${esc(s.availabilityText)}"` : "";
+  return `<div class="av ${cls}"${title}><span class="dot"></span>${esc(t)}</div>`;
+}
+
+function card(g) {
+  const best = bestPrice(g);
+  const shops = SHOPS.map(n => {
+    const s = shopOf(g, n);
+    const isBest = s.found && s.price != null && s.price === best && found(g).length > 1;
+    const name = s.found && s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(n)}</a>` : esc(n);
+    const ed = s.found && s.edition ? `<span class="ed">${esc(s.edition)}</span>` : "";
+    return `<div class="shop${s.found ? "" : " missing"}${isBest ? " best" : ""}">
+      <div class="sn">${name}${ed}${isBest ? '<span class="bestmark">günstigster</span>' : ""}</div>
+      <div class="pr">${s.found ? fmtEUR(s.price) : "–"}</div>
+      ${availHtml(s)}</div>`;
+  }).join("");
+  const de = g.germanVersion
+    ? `<span class="badge de" title="${esc(g.germanEdition ? (g.germanEdition.name + (g.germanEdition.publishers?.length ? " · " + g.germanEdition.publishers.join(", ") : "")) : "")}">✓ Deutsche Ausgabe${g.germanEdition?.publishers?.length ? " · " + esc(g.germanEdition.publishers.join(", ")) : ""}</span>`
+    : `<span class="badge nde">Keine deutsche Ausgabe gelistet</span>`;
+  const exp = g.expansionFor ? `<span class="badge exp">Erweiterung für ${esc(g.expansionFor)}</span>` : "";
+  const deTitle = g.germanTitle && g.germanTitle !== g.name ? `<span class="detitle">DE: ${esc(g.germanTitle)}</span>` : "";
+  return `<article class="game">
+    <div class="cover"><span class="rank" title="Platz im Most-Wanted-Tracker">${g.pos}</span>
+      <img src="${esc(g.image)}" alt="Cover von ${esc(g.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'ph',textContent:this.dataset.ini}))" data-ini="${esc(initials(g.name))}"></div>
+    <div class="main">
+      <div class="title"><h2><a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.name)}</a></h2>${deTitle}</div>
+      <div class="authors">${g.designers?.length ? "von " + esc(g.designers.join(", ")) : "Autor unbekannt"}${g.yearPublished ? " · " + g.yearPublished : ""}${g.players ? " · " + esc(g.players) : ""}${g.playingTime ? " · " + esc(g.playingTime) : ""}</div>
+      <p class="desc">${esc(g.descriptionDe || "")}</p>
+      <div class="facts">
+        <span class="fact"><span class="hex" style="background:${hexColor(g.averageRating)}">${fmt1(g.averageRating)}</span><span>BGG-Bewertung<br><b>${fmt1(g.averageRating, 2)}</b> ${g.numRatings ? "(" + g.numRatings.toLocaleString("de-DE") + " Stimmen)" : ""}</span></span>
+        <span class="fact">${pips(g.weight)}<span>Komplexität<br><b>${g.weight ? fmt1(g.weight, 2) + " / 5" : "–"}</b></span></span>
+        ${de}${exp}
+      </div>
+    </div>
+    <div class="shops"><h3>Preise in deutschen Shops</h3>${shops}</div>
+  </article>`;
+}
+
+const state = { q: "", sort: "pos", fde: false, fnow: false, fshop: false };
+try { Object.assign(state, JSON.parse(localStorage.getItem("spiel26-filter") || "{}")); } catch (e) {}
+
+function render() {
+  const q = state.q.trim().toLowerCase();
+  let rows = DATA.filter(g => {
+    if (state.fde && !g.germanVersion) return false;
+    if (state.fnow && !anyNow(g)) return false;
+    if (state.fshop && !found(g).length) return false;
+    if (!q) return true;
+    const hay = [g.name, g.germanTitle, ...(g.designers || []), ...(g.germanEdition?.publishers || [])].join(" ").toLowerCase();
+    return hay.includes(q);
+  });
+  const nz = (v, d) => v == null ? d : v;
+  const cmp = {
+    pos: (a, b) => a.pos - b.pos,
+    rating: (a, b) => nz(b.averageRating, -1) - nz(a.averageRating, -1),
+    "weight-asc": (a, b) => nz(a.weight, 9) - nz(b.weight, 9),
+    "weight-desc": (a, b) => nz(b.weight, -1) - nz(a.weight, -1),
+    price: (a, b) => nz(bestPrice(a), 1e9) - nz(bestPrice(b), 1e9),
+  }[state.sort];
+  rows.sort(cmp);
+  $("#list").innerHTML = rows.length ? rows.map(card).join("") : '<p class="empty">Kein Spiel passt zu diesen Filtern.</p>';
+  $("#count").textContent = `${rows.length} von ${DATA.length} Spielen`;
+  try { localStorage.setItem("spiel26-filter", JSON.stringify(state)); } catch (e) {}
+}
+
+$("#stand").textContent = META.stand;
+$("#q").value = state.q; $("#sort").value = state.sort;
+$("#fde").checked = state.fde; $("#fnow").checked = state.fnow; $("#fshop").checked = state.fshop;
+$("#q").addEventListener("input", e => { state.q = e.target.value; render(); });
+$("#sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
+for (const id of ["fde", "fnow", "fshop"]) $("#" + id).addEventListener("change", e => { state[id] = e.target.checked; render(); });
+render();
+</script>

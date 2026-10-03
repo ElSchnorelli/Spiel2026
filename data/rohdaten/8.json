@@ -1,0 +1,60 @@
+{
+ "pos": 8,
+ "id": 473897,
+ "averageRating": 7.9,
+ "numRatings": 96,
+ "weight": 3.76,
+ "designers": [
+  "Vlaada Chvátil",
+  "Tomáš Holek"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "120–320 Min",
+ "descriptionEn": "In Kingdom Come: Deliverance – The Board Game, players develop their character, fulfill quests, and shape history in 15th-century Bohemia. The game features an epic adventure with euro elements, allowing players to embark on a unique journey in a politically charged environment. Players can train skills, engage in quests, and navigate an open world filled with opportunities and challenges.",
+ "descriptionDe": "Das Brettspiel zum Videospiel-Hit führt euch ins Böhmen des 15. Jahrhunderts: Ihr entwickelt euren Charakter, erfüllt Quests und prägt die Geschichte in einem politisch aufgeladenen Umfeld. Das epische Abenteuer mit Euro-Elementen lässt euch Fähigkeiten trainieren und eine offene Welt voller Chancen und Herausforderungen erkunden.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Kingdom Come: Deliverance – Das Brettspiel Name Pending",
+  "publishers": [
+   "HeidelBÄR Games"
+  ]
+ },
+ "germanTitle": "Kingdom Come: Deliverance – Das Brettspiel",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "Kingdom Come: Deliverance (de)",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Kingdom-Come-Deliverance-de-1035390.html",
+   "price": 124.99,
+   "availabilityText": "versandkostenfrei in Deutschland, jetzt vorbestellen.",
+   "availableNow": false,
+   "releaseDate": "HJ1 2027"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Kingdom Come: Deliverance (DE)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11631-kingdom-come-deliverance-de",
+   "price": 134.95,
+   "availabilityText": "Vorbestellbar",
+   "availableNow": false,
+   "releaseDate": "Mai 2027"
+  }
+ ],
+ "notes": "German edition (HeidelBÄR) due spring 2027 (EN edition CGE Oct 2026). HeidelBÄR shop lists 149,95 EUR incl. bonus quest. SO search-result text 'auf Lager 1-3 Tage' is misleading; the product page says preorder. SO also lists EN edition at 129,99 EUR (Kingdom-Come-Deliverance-en-1035458). Spielefürst: no match."
+}

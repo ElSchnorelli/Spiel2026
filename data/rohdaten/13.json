@@ -1,0 +1,55 @@
+{
+ "pos": 13,
+ "id": 471430,
+ "averageRating": 8.4,
+ "numRatings": 10,
+ "weight": null,
+ "designers": [
+  "Corentin Lebrat",
+  "Johannes Goupy"
+ ],
+ "yearPublished": 2026,
+ "players": "2–6",
+ "playingTime": "15–30 Min",
+ "descriptionEn": "Compete to reconnect with the powerful Spirits of Alula. Beyond the Veil brings common objectives to Faraway, in the shape of 13 Spirit cards. The first player to complete an objective...",
+ "descriptionDe": "Beyond the Veil ist eine Erweiterung für Faraway, die gemeinsame Ziele in Form von 13 Geisterkarten ins Spiel bringt. Ihr wetteifert darum, die Verbindung zu den mächtigen Geistern von Alula wiederherzustellen. Wer ein Ziel zuerst erfüllt, wird belohnt.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Faraway: Beyond the Veil",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "Expansion for Faraway. No German edition on BGG (EN/FR only), no shop listing found at SO/Spieletastisch/Spielefürst. German base game Faraway is by Kosmos; DE title of this expansion unknown. weight=0 on BGG -> null."
+}

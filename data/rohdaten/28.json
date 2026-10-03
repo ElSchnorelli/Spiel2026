@@ -1,0 +1,59 @@
+{
+ "pos": 28,
+ "id": 472930,
+ "averageRating": null,
+ "numRatings": 0,
+ "weight": null,
+ "designers": [
+  "Hisashi Hayashi"
+ ],
+ "yearPublished": 2026,
+ "players": "2–5",
+ "playingTime": "20–30 Min",
+ "descriptionEn": "Complete your Bomb Busters experience with equipment designed for true bomb disposal experts! New components, new challenges, and new missions await.",
+ "descriptionDe": "Diese Erweiterung für das kooperative Bomb Busters bringt neues Spielmaterial in höherer Qualität (u. a. Acryl-Kabelbausteine und Stoffbeutel) sowie elf neue Missionen mit frischen Herausforderungen für echte Bombenentschärfer.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Bomb Busters: Upgrade Kit",
+  "publishers": [
+   "Pegasus Spiele"
+  ]
+ },
+ "germanTitle": "Bomb Busters: Upgrade Kit",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "Bomb Busters | Upgrade Kit - Erweiterung",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Bomb-Busters-Upgrade-Kit-Erweiterung-1035245.html",
+   "price": 22.49,
+   "availabilityText": "Vorbestellbar, erscheint voraussichtlich ab Ende Oktober 2026.",
+   "availableNow": false,
+   "releaseDate": "Ende Oktober 2026 (2026-10-31)"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Bomb Busters: Upgrade Kit (DE)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11650-bomb-busters-upgrade-kit-de",
+   "price": 22.5,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026 (Seite: lieferbar ab November 2026)"
+  }
+ ],
+ "notes": "Expansion. No BGG rating yet (0 ratings) -> null; weight null. German edition sold as 'Bomb Busters: Upgrade Kit' (Pegasus Spiele). Spiele-Offensive product found via web search (its own search box does not match it). Spielefürst: only 3D-printed accessories, not the Upgrade Kit."
+}

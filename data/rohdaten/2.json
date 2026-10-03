@@ -1,0 +1,60 @@
+{
+ "pos": 2,
+ "id": 456236,
+ "averageRating": 8.5,
+ "numRatings": 307,
+ "weight": 3.84,
+ "designers": [
+  "Héctor Carrión Benavent",
+  "David Heras Pino"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "30–120 Min",
+ "descriptionEn": "Queen Alice is a mid-heavy eurogame all about building engines to improve your actions. Players influence chess pieces to prepare for Alice's coronation banquet, aiming to become her right-hand person by gaining points based on their actions and the colored chess pieces that assist them.",
+ "descriptionDe": "Queen Alice ist ein anspruchsvolles Euro-Spiel rund um Engine-Building. Mit kartengesteuerten Aktionen setzt ihr Schachfiguren und ihre bekannten Züge ein, um das Krönungsbankett der Königin Alice vorzubereiten. Wer durch seine Aktionen und die helfenden farbigen Figuren die meisten Punkte sammelt, wird ihre rechte Hand.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Queen Alice Name Pending - ENG/GER/FRE/SPA edition",
+  "publishers": [
+   "Combo Games (II)"
+  ]
+ },
+ "germanTitle": "Queen Alice",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "Multilingual edition (EN/GER/FRE/SPA) by Combo Games, no separate German publisher (Würfelreich: 'ohne deutschen Verlag'). Not found via SO/Spielefürst search or Spieletastisch web search. brettspiel-angebote.de snippet mentions a SO listing from 10,89 EUR but SO search showed nothing relevant (possibly wrong snippet). Würfelreich mentions a 'Queen Alice: Bundle' at 109.95 EUR pre-order at an unnamed shop."
+}

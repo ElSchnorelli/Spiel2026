@@ -1,0 +1,55 @@
+{
+ "pos": 23,
+ "id": 474947,
+ "averageRating": 6.3,
+ "numRatings": 7,
+ "weight": null,
+ "designers": [
+  "Isra C.",
+  "Shei S."
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "80–100 Min",
+ "descriptionEn": "Gain influence and privileges by advancing the Passage of Time track in Himeji. The Bōeki expansion includes 20 Privilege cards, 12 Daimyo Gift tiles, and 6 Passage of Time tiles. Privilege cards grant bonuses that alter requirements such as dice rolls or action costs; Daimyo Gift tiles are end-game objectives scored if the corresponding time-track space was reached.",
+ "descriptionDe": "Die Erweiterung für The White Castle (dt. Die Weiße Burg) dreht sich um den Lauf der Zeit in Himeji: Wer auf der Zeitleiste voranschreitet, erhält Einfluss und Privilegien. Enthalten sind 20 Privilegienkarten, die Würfelwerte oder Aktionskosten verändern, sowie 12 Daimyo-Geschenkplättchen als Zielvorgaben für die Schlusswertung und 6 Plättchen zum Lauf der Zeit.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Die Weiße Burg: Bōeki",
+ "notes": "Expansion. BGG weight 0 (too few votes) -> null. BGG lists only Devir multilingual edition (Catalan/English/Italian/Portuguese/Spanish), no German yet; base game published in DE by Franckh-Kosmos. Not found at Spiele-Offensive (searched 'Weiße Burg': base, Duell, stickers only), Spielefürst or Spieletastisch.",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "pos": 41,
+ "id": 460716,
+ "averageRating": 8.4,
+ "numRatings": 381,
+ "weight": 2.11,
+ "designers": [
+  "Sarah Joshua"
+ ],
+ "yearPublished": 2026,
+ "players": "1",
+ "playingTime": "10–20 Min",
+ "descriptionEn": "Take on the role of Ivy, the courageous new owner of a magical inn. Build your bewitching B&B to best suit your eccentric guests while cultivating the ivy covering your walls. Each turn, carefully place each card in a grid. Assign guests, noting their preferences to score them at the end of the game. In Story Mode, earn rewards for meeting point goals and completing unique challenges.",
+ "descriptionDe": "Als mutige neue Besitzerin Ivy führst du ein magisches Gasthaus. Du legst jede Runde Karten in ein Raster, platzt Gäste passend zu ihren Vorlieben und lässt Efeu an den Wänden ranken, um am Ende Punkte zu sammeln. Ein Solospiel mit Story-Modus, Belohnungen und besonderen Herausforderungen.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Enchanted Ivy",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Enchanted Ivy (EN)",
+   "edition": "EN",
+   "url": "https://www.spieletastisch.de/produkte/11263-enchanted-ivy-en",
+   "price": 15.95,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
+   "availableNow": false,
+   "releaseDate": "August 2026 (Produktseite; Lieferhinweis Oktober 2026)"
+  }
+ ],
+ "notes": "Only English edition (allplay) on BGG versions. Spiele-Offensive and Spielefürst: no match. Spieletastisch availability from WebFetch summary."
+}

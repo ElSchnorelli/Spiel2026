@@ -1,0 +1,54 @@
+{
+ "pos": 37,
+ "id": 468800,
+ "averageRating": 7.9,
+ "numRatings": 43,
+ "weight": 3.0,
+ "designers": [
+  "Ben Rosset"
+ ],
+ "yearPublished": 2027,
+ "players": "1–6",
+ "playingTime": "60–90 Min",
+ "descriptionEn": "Carefully plan itineraries to thrill guests on out-of-this-world vacations.",
+ "descriptionDe": "In Excursions plant man sorgfältig Reiserouten, um Gäste mit außergewöhnlichen Urlauben zu begeistern. Das Spiel ist für 1 bis 6 Personen ausgelegt und soll 2027 erscheinen.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Excursions",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "Nur englische Ausgabe (Kinson Key Games, 2027). In keinem Shop gefunden. BGG-Beschreibung nur Kurztext."
+}

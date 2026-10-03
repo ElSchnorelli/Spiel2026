@@ -1,0 +1,60 @@
+{
+ "pos": 12,
+ "id": 472021,
+ "averageRating": 7.1,
+ "numRatings": 25,
+ "weight": 2.8,
+ "designers": [
+  "Stefan Feld"
+ ],
+ "yearPublished": 2026,
+ "players": "2–4",
+ "playingTime": "60–90 Min",
+ "descriptionEn": "In Medico, you take on the role of medieval traveling barbers striving to acquire the knowledge needed to be worthy of the title of Medicus. Travel from city to city, gather rare remedies, deliver letters on behalf of the Church, search for healing recipes, and perform medical tasks to earn points in various categories.",
+ "descriptionDe": "In Medico schlüpft ihr in die Rolle mittelalterlicher Wanderbarbiere, die sich den Titel des Medicus verdienen wollen. Ihr reist von Stadt zu Stadt, sammelt seltene Heilmittel, liefert Briefe der Kirche aus und sucht Rezepte. Durch medizinische Aufgaben sammelt ihr Punkte in verschiedenen Kategorien – ein Spiel von Stefan Feld.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Medico Name Pending - German edition",
+  "publishers": [
+   "Hall Games",
+   "Pegasus Spiele"
+  ]
+ },
+ "germanTitle": "Medico",
+ "shops": [
+  {
+   "found": true,
+   "productName": "Medico",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Medico-1034974.html",
+   "price": 53.99,
+   "availabilityText": "Ware wurde bereits nachbestellt, aber Lieferzeitwarnung liegt vor.",
+   "availableNow": false,
+   "releaseDate": null,
+   "shop": "Spiele-Offensive"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "found": true,
+   "productName": "Medico",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11606-medico",
+   "price": 53.99,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026",
+   "shop": "Spieletastisch"
+  }
+ ],
+ "notes": "Spielefürst: not found (search only returned unrelated 'Media Aetas'). German publisher Pegasus per BGG/Spieletastisch. weight 2.8."
+}

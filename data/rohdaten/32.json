@@ -1,0 +1,54 @@
+{
+ "pos": 32,
+ "id": 455881,
+ "averageRating": 8.8,
+ "numRatings": 27,
+ "weight": 3.25,
+ "designers": [
+  "David Bernal"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "60–120 Min",
+ "descriptionEn": "Transform clay into art and your workshop into the soul of Níjar. Each player expands their workshop by adding new wheels to produce more pieces. Extract clay, throw pots, fire them, paint them, and sell your creations at the market.",
+ "descriptionDe": "In Níjar führt man eine Töpferwerkstatt im andalusischen Níjar. Man baut neue Töpferscheiben aus, gewinnt Ton, formt, brennt und bemalt Gefäße und verkauft sie auf dem Markt. Wer Rhythmus und Farbgebung am besten beherrscht, wird zum Meistertöpfer.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Níjar",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Níjar (Nijar) (EN)",
+   "edition": "EN",
+   "url": "https://www.spieletastisch.de/produkte/11824-nijar-nijar-de",
+   "price": 39.95,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026"
+  }
+ ],
+ "notes": "Keine deutsche Ausgabe laut BGG (Devir/Perro Loko Games, EN und EN/ES). Spieletastisch führt die englische Ausgabe. Spiele-Offensive-Suche lieferte nur irrelevanten Treffer (DreamQuest) und wurde als nicht gefunden gewertet."
+}

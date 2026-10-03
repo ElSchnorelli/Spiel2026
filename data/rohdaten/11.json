@@ -1,0 +1,59 @@
+{
+ "pos": 11,
+ "id": 457412,
+ "averageRating": 7.5,
+ "numRatings": 400,
+ "weight": 2.14,
+ "designers": [
+  "Tomáš Holek"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "30 Min",
+ "descriptionEn": "Help animals sneak back to their homes before anyone notices! Players explore parts of the darkened zoo to discover the best routes home. Each round, players draft tiles and place them on their boards, triggering special actions and building a path back for their animals. Every animal has its own unique way of moving and scoring points, making each game a new adventure!",
+ "descriptionDe": "Ein Kennerspiel für die ganze Familie im nächtlichen Zoo: Ihr helft Tieren, unbemerkt zurück in ihre Gehege zu schleichen. In jeder Runde wählt ihr Plättchen, legt sie auf euer Tableau und löst Aktionen aus, um Wege nach Hause zu bauen. Jedes Tier bewegt sich und punktet auf eigene Weise.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Nacht im Zoo",
+  "publishers": [
+   "Albi"
+  ]
+ },
+ "germanTitle": "Nacht im Zoo",
+ "shops": [
+  {
+   "found": true,
+   "productName": "Nacht im Zoo",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Nacht-im-Zoo-1034833.html",
+   "price": 36.99,
+   "availabilityText": "Sofort lieferbar",
+   "availableNow": true,
+   "releaseDate": null,
+   "shop": "Spiele-Offensive"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "found": true,
+   "productName": "Nacht im Zoo",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11834-nacht-im-zoo",
+   "price": 27.95,
+   "availabilityText": "Zurzeit nicht lieferbar. Wird nicht mehr nachbestellt.",
+   "availableNow": false,
+   "releaseDate": "Juli 2026",
+   "shop": "Spieletastisch"
+  }
+ ],
+ "notes": "BGG numRatings=400 taken from page reviewCount. German BGG edition: Albi 'Nacht im Zoo' (name pending). Spieletastisch lists publisher Capstone Games, 'Zurzeit nicht lieferbar', so DE edition attribution uncertain; Spiele-Offensive 'Sofort lieferbar'. Spielefürst: not found."
+}

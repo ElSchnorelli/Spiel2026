@@ -1,0 +1,61 @@
+{
+ "pos": 44,
+ "id": 472208,
+ "averageRating": 9.0,
+ "numRatings": 11,
+ "weight": 3.5,
+ "designers": [
+  "Michael Rieneck",
+  "Stefan Stadler"
+ ],
+ "yearPublished": 2026,
+ "players": "2–5",
+ "playingTime": "75–120 Min",
+ "descriptionEn": "In pre-revolution Cuba, produce and ship goods, and influence the Parliament to help. In Cubaneo, you try to gain more victory points than the other players by shipping goods in the harbor, constructing buildings and using their abilities, and implementing certain acts that change the rules of game.",
+ "descriptionDe": "Cubaneo ist die Neuauflage von Cuba samt Erweiterung El Presidente. Im Kuba vor der Revolution produzierst und verschiffst du Waren, errichtest Gebäude mit besonderen Fähigkeiten und beeinflusst das Parlament durch Gesetze, die die Spielregeln verändern. Wer am Ende die meisten Siegpunkte hat, gewinnt.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Cubaneo (DE)",
+  "publishers": [
+   "Pegasus Spiele",
+   "Deep Print Games"
+  ]
+ },
+ "germanTitle": "Cubaneo",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "Cubaneo",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Cubaneo-1034975.html",
+   "price": 44.89,
+   "availabilityText": "Cubaneo ist voraussichtlich ab Ende Oktober 2026 lieferbar",
+   "availableNow": false,
+   "releaseDate": "Ende Oktober 2026"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Cubaneo (DE)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11648-cubaneo-de",
+   "price": 44.95,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026"
+  }
+ ],
+ "notes": "German edition from shop data (Pegasus Spiele per Spiele-Offensive, Deep Print Games per Spieletastisch); BGG versions page not scraped (rate limit). Spielefürst: not found."
+}

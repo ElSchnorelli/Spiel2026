@@ -1,0 +1,55 @@
+{
+ "pos": 20,
+ "id": 458150,
+ "averageRating": 8.3,
+ "numRatings": 4,
+ "weight": null,
+ "designers": [
+  "Alessandro Cuneo",
+  "Simone Luciani"
+ ],
+ "yearPublished": 2026,
+ "players": "2–4",
+ "playingTime": "50–60 Min",
+ "descriptionEn": "In this strategy game, you guide the expansion of your family's farm beyond the known boundaries of the forest. Each player has a personal deck of cards, replacing weaker starting cards with more powerful settler cards. Each round has reveal, action and recruitment phases; revealing 7 or more yokai icons makes you 'explode'. Increase your influence and attract the right people to your settlement to gain victory points.",
+ "descriptionDe": "In Shugendo erweitert ihr den Hof eurer Familie über die Grenzen des Waldes hinaus und baut ein blühendes Dorf auf. Jeder besitzt ein eigenes Deck, das ihr durch stärkere Siedlerkarten verbessert; in der Aufdeckphase riskiert ihr, durch zu viele Yokai-Symbole zu „explodieren“. Ihr gewinnt durch Einfluss und die richtigen Leute im Dorf.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Shugendo",
+ "shops": [
+  {
+   "found": true,
+   "productName": "Shugendo",
+   "edition": null,
+   "url": "https://www.spiele-offensive.de/Spiel/Shugendo",
+   "price": 29.99,
+   "availabilityText": "Sofort lieferbar",
+   "availableNow": true,
+   "releaseDate": null,
+   "shop": "Spiele-Offensive"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "found": true,
+   "productName": "Shugendo (EN)",
+   "edition": "EN",
+   "url": "https://www.spieletastisch.de/produkte/12126-shugendo-en",
+   "price": 35.95,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
+   "availableNow": false,
+   "releaseDate": "September 2026",
+   "shop": "Spieletastisch"
+  }
+ ],
+ "notes": "BGG versions list only a Devir multilingual edition (CA/EN/IT/PT/ES); no German -> germanVersion false. Spieletastisch lists 'Shugendo (EN)' Devir Games 35.95. SO result URL was truncated (https://www.spiele-offensive.de/Spiel/Shugendo), edition unknown. Spielefürst: not found. weight null (BGG 0), only 4 ratings."
+}

@@ -1,0 +1,54 @@
+{
+ "pos": 30,
+ "id": 470814,
+ "averageRating": 7.8,
+ "numRatings": 27,
+ "weight": null,
+ "designers": [
+  "Marco Piola Caselli"
+ ],
+ "yearPublished": 2026,
+ "players": "2–4",
+ "playingTime": "90 Min",
+ "descriptionEn": "Build an oil empire through strategic positioning and smart investments. Lead an expanding oil company, optimise every phase of the refining chain and build your reputation. Position yourself on the action wheel to activate the best moves, expand your influence on the map, build drilling rigs, develop turbines and enhance refineries.",
+ "descriptionDe": "Du baust ein Ölimperium durch geschickte Positionierung und kluge Investitionen auf. Als Chef einer wachsenden Ölfirma optimierst du jede Stufe der Raffineriekette und baust deinen Ruf aus. Auf dem Aktionsrad wählst du den passenden Zug, sicherst dir Einfluss auf der Karte, errichtest Bohrinseln, entwickelst Turbinen und rüstest deine Raffinerien auf.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Oil Rock",
+ "notes": "BGG weight 0 (too few votes) -> null. BGG versions: English/Italian (Cranio Creations), French (Cranio Creations/Intrafin Games); no German. Not found at Spiele-Offensive (unrelated result), Spielefürst (unrelated paint) or Spieletastisch (search returned only 'Nature (EN)').",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ]
+}

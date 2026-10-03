@@ -1,0 +1,54 @@
+{
+ "pos": 16,
+ "id": 462012,
+ "averageRating": 8.3,
+ "numRatings": 24,
+ "weight": 3.75,
+ "designers": [
+  "Michal Peichl"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "60–120 Min",
+ "descriptionEn": "Carl von Linné is a strategic board game set in the early 18th century, where players take on the roles of natural historians inspired by the work of Carl Linnaeus and his contemporaries. Through exploring distant regions, collecting and researching specimens, cultivating botanical gardens, corresponding with scientific institutions, and publishing influential books, players gradually build knowledge and reputation. By carefully managing actions through a unique lens system and balancing fieldwork with scholarly study, players compete to contribute most to the emerging system of taxonomy and leave a lasting mark on the history of natural science.",
+ "descriptionDe": "Im frühen 18. Jahrhundert seid ihr Naturforscher im Geiste von Carl von Linné. Ihr erkundet ferne Regionen, sammelt und erforscht Exemplare, pflegt Botanische Gärten, korrespondiert mit Institutionen und veröffentlicht Bücher. Über ein besonderes Linsensystem plant ihr eure Aktionen und wetteifert darum, wer am meisten zur Taxonomie beiträgt.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Carl von Linné",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "No German edition on BGG (EN Pink Troubadour, CZ, NL, HU, IT). Not found in any of the 3 shops."
+}

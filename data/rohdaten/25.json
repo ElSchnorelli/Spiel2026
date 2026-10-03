@@ -1,0 +1,54 @@
+{
+ "pos": 25,
+ "id": 459401,
+ "averageRating": 7.7,
+ "numRatings": 126,
+ "weight": 3.0,
+ "designers": [
+  "William Attia"
+ ],
+ "yearPublished": 2026,
+ "players": "2–4",
+ "playingTime": "45–90 Min",
+ "descriptionEn": "Greylune is a strategic game combining worker placement and adventure, set in a medieval fantasy world. Place your villagers between the cards that form the city of Greylune, then remove them at the right moment to gather resources, recruit companions, acquire items, and visit important locations. Intense interaction and constant dilemmas make for a highly tactical experience.",
+ "descriptionDe": "Greylune verbindet Worker Placement mit Abenteuer in einer mittelalterlichen Fantasywelt. Du setzt deine Dorfbewohner zwischen die Karten, die die Stadt bilden, und holst sie im richtigen Moment wieder ab, um Ressourcen zu sammeln, Gefährten anzuheuern, Gegenstände zu erwerben und wichtige Orte zu besuchen. Starke Interaktion und ständige Dilemmata machen es zu einem sehr taktischen Spiel.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Greylune",
+ "notes": "BGG versions: English/French (Sorry We Are French), English (Pandasaurus Games). No German edition listed. Not found in any of the three shops (Spiele-Offensive empty result, Spielefürst unrelated result, Spieletastisch site search empty).",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ]
+}

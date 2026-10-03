@@ -1,0 +1,55 @@
+{
+ "pos": 45,
+ "id": 473933,
+ "averageRating": 8.2,
+ "numRatings": 3,
+ "weight": null,
+ "designers": [
+  "Kristian Amundsen Østby",
+  "Aleksander Østby"
+ ],
+ "yearPublished": 2026,
+ "players": "1–6",
+ "playingTime": "20–30 Min",
+ "descriptionEn": "Excavate relics, test your luck, and uncover the buried secrets. In Buried Memories, the game box is your digsite. Players are explorers, searching the layered remains of forgotten civilizations. Dig through the excavation site, recover precious relics, complete ancient statues and vases, and decide how far you're willing to push your luck before hidden creatures force you stop. As objectives are completed, sealed envelopes unlock new content.",
+ "descriptionDe": "In Buried Memories ist die Spielschachtel deine Ausgrabungsstätte. Du deckst Fundstücke auf, sammelst Relikte und Edelsteine und setzt Statuen und Vasen zusammen. Doch Vorsicht: Zwei gleiche Kreaturen beenden sofort deinen Zug. Versiegelte Umschläge schalten beim Erreichen von Zielen neue Inhalte frei.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Buried Memories",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Buried Memories (EN)",
+   "edition": "EN",
+   "url": "https://www.spieletastisch.de/produkte/11700-buried-memories-en",
+   "price": 20.95,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026"
+  }
+ ],
+ "notes": "Only 3 ratings; weight not available (0 on BGG -> null). BGG versions page not scraped (rate limit); German edition not known, Spieletastisch lists EN (Publishing Technology & Solution). Spiele-Offensive/Spielefürst: no match."
+}

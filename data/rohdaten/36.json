@@ -1,0 +1,60 @@
+{
+ "pos": 36,
+ "id": 423309,
+ "averageRating": 8.1,
+ "numRatings": 112,
+ "weight": 3.22,
+ "designers": [
+  "Rémi Mathieu",
+  "Sams"
+ ],
+ "yearPublished": 2027,
+ "players": "1–4",
+ "playingTime": "60–90 Min",
+ "descriptionEn": "ARCTICA is a competitive, card-driven, engine-building Eurogame based on the development of Arctic ecosystems, especially fauna. The game features more than 160 animals, and you want to build a viable ecosystem. In the end, the player with the highest biodiversity score wins.",
+ "descriptionDe": "Arctica ist ein kompetitives, kartengetriebenes Engine-Building-Eurogame rund um arktische Ökosysteme. Mit über 160 Tierkarten baut man ein funktionierendes Ökosystem auf, wer am Ende die höchste Biodiversität erreicht, gewinnt.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Arctica Name Pending - German edition",
+  "publishers": [
+   "Board Game Circus"
+  ]
+ },
+ "germanTitle": "Arctica",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "Deutsche Ausgabe bei Board Game Circus (2027) bzw. EN/FR/DE bei This Way!. In keinem der drei Shops gefunden (Treffer waren Farben, Aquatica, Exit-Adventskalender, andere Spiele)."
+}

@@ -1,0 +1,63 @@
+{
+ "pos": 46,
+ "id": 209010,
+ "averageRating": 7.9,
+ "numRatings": 18532,
+ "weight": 2.45,
+ "designers": [
+  "Chris Cantrell",
+  "Rick Ernst",
+  "Stone Librande",
+  "Nathan Tiras",
+  "Prashant Saraswat"
+ ],
+ "yearPublished": 2016,
+ "players": "2–4",
+ "playingTime": "60–120 Min",
+ "descriptionEn": "Mechs vs. Minions is a cooperative tabletop campaign for 2-4 players. Set in the world of Runeterra, players take on the roles of four intrepid Yordles: Corki, Tristana, Heimerdinger, and Ziggs, who must join forces and pilot their newly-crafted mechs against an army of marauding minions. With modular boards, programmatic command lines, and a story-driven campaign, each mission will be unique. There are ten missions in total.",
+ "descriptionDe": "Mechs vs. Minions ist eine kooperative Kampagne für 2 bis 4 Personen in der Welt von League of Legends (Runeterra). Als Yordles steuert ihr per Programmierkarten eure Mechs gegen eine Armee von Minions. Dank modularer Spielpläne und zehn Missionen von je 60 bis 90 Minuten fühlt sich jede Partie anders an.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Mechs vs. Minions (German edition, 2017)",
+  "publishers": [
+   "Riot Games"
+  ]
+ },
+ "germanTitle": "Mechs vs. Minions",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "BGG numRatings approx 18532-19000. German edition 2017 by Riot Games exists; 2026 'Bandle City Edition' (Incredible Dream Studios, English) is the reissue likely behind the Spiel 2026 listing. No shop (also searched 'Bandle City') carries it. Spielefürst 'Melochs Duell' is an unrelated game."
+}

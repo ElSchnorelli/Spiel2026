@@ -1,0 +1,59 @@
+{
+ "pos": 19,
+ "id": 405769,
+ "averageRating": 7.0,
+ "numRatings": 24,
+ "weight": 2.2,
+ "designers": [
+  "Guime"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "60–90 Min",
+ "descriptionEn": "In The Mix, players perfect their mixology skills to craft delicious cocktails, gaining experience and enhancing their bartending skills to become the top mixologist at the renowned Foxtrot Bar.",
+ "descriptionDe": "In The Mix verfeinert ihr eure Mixer-Fähigkeiten und kreiert köstliche Cocktails für eure Gäste. Dabei sammelt ihr Erfahrung und verbessert eure Barkeeper-Talente, um zum besten Mixologen der Foxtrot Bar zu werden. Ein strategisches Arbeitereinsatzspiel mit Cocktail-Flair.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "The Mix (GER/DUT/SPA edition)",
+  "publishers": [
+   "HABA"
+  ]
+ },
+ "germanTitle": "The Mix",
+ "shops": [
+  {
+   "found": true,
+   "productName": "The Mix",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/The-Mix-1035109.html",
+   "price": 56.19,
+   "availabilityText": "Sofort lieferbar",
+   "availableNow": true,
+   "releaseDate": null,
+   "shop": "Spiele-Offensive"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "found": true,
+   "productName": "The Mix (DE & NL)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11696-the-mix-de-und-nl",
+   "price": 69.99,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Januar 2027",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026",
+   "shop": "Spieletastisch"
+  }
+ ],
+ "notes": "Spieletastisch: The Mix (DE & NL) by HABA, ab Januar 2027, 69.99. SO 56.19 'Sofort lieferbar' - conflicts with release (Oct 2026) so verify; edition at SO not stated. Spielefürst: not found. BGG also lists Ruse.Games EN/FR/DE edition."
+}

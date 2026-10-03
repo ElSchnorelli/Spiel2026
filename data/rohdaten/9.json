@@ -1,0 +1,59 @@
+{
+ "pos": 9,
+ "id": 466862,
+ "averageRating": 7.8,
+ "numRatings": 9,
+ "weight": null,
+ "designers": [
+  "Tristan Geeraert"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "80–150 Min",
+ "descriptionEn": "Earth, 2562. Following a cataclysmic event, time and space are ripping apart at the seams. Players must help save the world by rediscovering ancient technologies, enlisting the help of robotic time-travelling, portal-building animals known as Chronocritters. The availability of actions and resources changes with the passing of time. Players gain access to more locations via time portals, but portals only remain stable for a short time and begin to decay, requiring constant maintenance or new construction. The player who best masters the chronocritters and persuades the AI of their abilities restores reality and wins.",
+ "descriptionDe": "Erde, Jahr 2562: Nach einer Katastrophe reißen Zeit und Raum auseinander. Ihr rettet die Welt, indem ihr uralte Technologien wiederentdeckt und die zeitreisenden Roboter-Tiere, die Chronocritters, für euch gewinnt. Aktionen und Ressourcen ändern sich mit dem Lauf der Zeit; Zeitportale öffnen neue Orte, zerfallen aber schnell und müssen gepflegt oder neu gebaut werden. Wer die Chronocritters am besten einsetzt und die KI überzeugt, gewinnt.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Chronocritters Name Pending - German edition",
+  "publishers": [
+   "Delicious Games"
+  ]
+ },
+ "germanTitle": "Chronocritters",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Chronocritters (DE)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/12284-chronocritters-de",
+   "price": 57.95,
+   "availabilityText": "Available for pre-order",
+   "availableNow": false,
+   "releaseDate": "November 2026"
+  }
+ ],
+ "notes": "BGG weight not yet available (0) -> null; only 9 ratings. SO and Spielefürst searches for 'Chronocritters' found nothing."
+}

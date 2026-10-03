@@ -1,0 +1,60 @@
+{
+ "pos": 22,
+ "id": 469383,
+ "averageRating": 8.6,
+ "numRatings": 32,
+ "weight": 3.5,
+ "designers": [
+  "Christos Giannakoulas",
+  "Manolis Zachariadis"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "40–160 Min",
+ "descriptionEn": "Gather companions from different clans to free the mystical creatures of Greenwood. As Primal Spirits you lead your companions; each turn you use your own companions' abilities, other players' companions' abilities, or send a companion into the forest to improve wayfinding and rescue mystical creatures. Played over 3 nights; most victory points wins.",
+ "descriptionDe": "Als Urgeister sammelst du Gefährten aus verschiedenen Clans, um die mystischen Wesen von Greenwood zu befreien. In jedem Zug nutzt du die Fähigkeiten eigener oder fremder Gefährten oder schickst einen Gefährten in den Wald, um Wesen zu retten. Nach drei Nächten gewinnt, wer die meisten Siegpunkte hat.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Greenwood (German edition)",
+  "publishers": [
+   "Feuerland Spiele"
+  ]
+ },
+ "germanTitle": "Greenwood",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": true,
+   "productName": "Greenwood | Vorbestellung",
+   "edition": "DE",
+   "url": "https://spielefuerst.de/products/greenwood",
+   "price": 66.9,
+   "availabilityText": "Vorbestellbar: Lieferdatum November 2026",
+   "availableNow": false,
+   "releaseDate": "November 2026"
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Greenwood (DE)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/12368-greenwood-de",
+   "price": 71.9,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
+   "availableNow": false,
+   "releaseDate": "November 2026"
+  }
+ ],
+ "notes": "Spiele-Offensive: first JSON extraction returned placeholder data; verified via markdown: no matching article (Spiele-Offensive not stocking it)."
+}

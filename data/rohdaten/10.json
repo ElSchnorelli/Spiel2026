@@ -1,0 +1,60 @@
+{
+ "pos": 10,
+ "id": 475207,
+ "averageRating": 8.4,
+ "numRatings": 96,
+ "weight": 2.67,
+ "designers": [
+  "Elwen",
+  "Mín"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "30–120 Min",
+ "descriptionEn": "Venture deeper into the jungle, where the ancient canopy guards its oldest mysteries. A package with no sender arrives; there are still treasures to be unearthed. Lost Ruins of Arnak: Surprise Shipment is the final addition to the world of Arnak, with 50 new cards (30 artifacts, 20 items), two new sites and an updated site, in a beautifully illustrated box.",
+ "descriptionDe": "Wagt euch tiefer in den Dschungel, wo das uralte Blätterdach seine ältesten Geheimnisse hütet. Ein Paket ohne Absender ist eingetroffen – es gibt noch Schätze zu heben. Die Überraschungslieferung ist die letzte Erweiterung zu Arnak und bringt 50 neue Karten (30 Artefakte, 20 Gegenstände), zwei neue Orte und einen überarbeiteten Ort in einer schön illustrierten Schachtel.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Die verlorenen Ruinen von Arnak: Überraschungslieferung Name Pending",
+  "publishers": [
+   "HeidelBÄR Games"
+  ]
+ },
+ "germanTitle": "Die verlorenen Ruinen von Arnak: Überraschungslieferung",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "Lost Ruins of Arnak | Surprise Shipment - Expansion (en)",
+   "edition": "EN",
+   "url": "https://www.spiele-offensive.de/Spiel/Lost-Ruins-of-Arnak-Surprise-Shipment-Expansion-en-1035151.html",
+   "price": 12.89,
+   "availabilityText": "\"Lost Ruins of Arnak | Surprise Shipment - Expansion (en)\" ist voraussichtlich ab Mitte Oktober 2026 wieder lieferbar.",
+   "availableNow": false,
+   "releaseDate": "Mitte Oktober 2026"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Überraschungslieferung- Die verlorenen Ruinen von Arnak",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/12016-ueberraschungslieferung-die-verlorenen-ruinen-von-arnak",
+   "price": 12.95,
+   "availabilityText": "Vorbestellbar",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026"
+  }
+ ],
+ "notes": "Expansion. SO lists only the EN edition (the German one was not found in SO search). Spielefürst: no match (only other Arnak items)."
+}

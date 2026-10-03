@@ -1,0 +1,56 @@
+{
+ "pos": 21,
+ "id": 455933,
+ "averageRating": 8.7,
+ "numRatings": 22,
+ "weight": null,
+ "designers": [
+  "Jorge J. Barroso",
+  "Jesús Fuentes",
+  "Eduardo Pavón"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "60–120 Min",
+ "descriptionEn": "From the ashes, the Phoenix will rise again in A.S.H.E.S.: Blackout Protocol. Lead a colony in its struggle for survival after the Great Nuclear War of 1989, rescue civilians, expand your shelter network, and contribute to Project Phoenix to restore hope to humanity.",
+ "descriptionDe": "Nach dem großen Atomkrieg von 1989 führst du eine Kolonie im Kampf ums Überleben. Du rettest Zivilisten, baust dein Netz aus Schutzbunkern aus und trägst zum Projekt Phoenix bei, um der Menschheit neue Hoffnung zu geben.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "ASHES: Blackout Protocol",
+ "notes": "BGG weight 0 (not enough votes) -> null. Only English/Spanish edition (Perro Loko Games). Not found in any of the three shops.",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ]
+}

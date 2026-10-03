@@ -1,0 +1,60 @@
+{
+ "pos": 26,
+ "id": 472579,
+ "averageRating": 6.2,
+ "numRatings": 13,
+ "weight": null,
+ "designers": [
+  "Dávid Turczi"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "45–120 Min",
+ "descriptionEn": "Travel the Lands of Camelot with your retinue for influence and glory. As ambitious Knights in King Arthur's realm, each turn is one day: at dawn Knights ride to Market Towns, Countrysides, Ports or Camelot, by day they take actions at those locations, at twilight they make camp, recall their retinue and, if summoned, attend the Feast at Camelot.",
+ "descriptionDe": "Als ehrgeizige Ritter im Reich von König Artus reist ihr mit eurem Gefolge durch die Lande Camelots, um Einfluss und Ruhm zu sammeln. Jeder Zug ist ein Tag: Morgens reiten die Ritter zu Marktstädten, Landstrichen, Häfen oder nach Camelot, tagsüber führen sie Aktionen aus, und abends schlagen sie ihr Lager auf, rufen das Gefolge zurück und nehmen gegebenenfalls am Fest in Camelot teil.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Chivalry (German edition)",
+  "publishers": [
+   "dlp games",
+   "Game's Up"
+  ]
+ },
+ "germanTitle": "Chivalry",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Chivalry (DE)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11974-chivalry-de",
+   "price": 54.95,
+   "availabilityText": "Vorbestellbar",
+   "availableNow": false,
+   "releaseDate": "Februar 2027"
+  }
+ ],
+ "notes": "BGG weight 0 (too few votes) -> null. BGG lists German edition by dlp games/Game's Up; Spieletastisch search snippet names Frosted Games as publisher of the DE edition (also showed a 62,95 EUR figure, page price 54,95 EUR, list price 65,00). Spiele-Offensive empty result; Spielefürst only unrelated paints."
+}

@@ -1,0 +1,54 @@
+{
+ "pos": 42,
+ "id": 471157,
+ "averageRating": 8.8,
+ "numRatings": 6,
+ "weight": 3.0,
+ "designers": [
+  "Matthieu Podevin"
+ ],
+ "yearPublished": 2026,
+ "players": "2–4",
+ "playingTime": "60–120 Min",
+ "descriptionEn": "Near: L'écho des Civilisations invites you to write 3,000 years of history... Or rather, to rewrite it, drawing inspiration from real-world civilizations, discoveries, and landmark events. All of this in just 3 Ages of 4 turns! What if the Mayans had built the Roman Amphitheater, or the Huns had created the Hanging Gardens? The game's mechanics are based on its cards. Play 2 per turn and gain effects such as developing domains, making history with events, and building structures on the World board.",
+ "descriptionDe": "In Near schreibst du 3.000 Jahre Geschichte neu und lässt dich dabei von echten Zivilisationen, Entdeckungen und Ereignissen inspirieren. In nur drei Zeitaltern mit je vier Zügen spielst du pro Zug zwei Karten, entwickelst Bereiche, schreibst Geschichte durch Ereignisse und baust Bauwerke auf dem Weltplan. Was wäre, wenn die Maya das römische Amphitheater gebaut hätten?",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Near: Echoes of Civilizations",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "BGG versions: only English and French (La Boîte de Jeu). No German edition; not found in any of the three shops. Very few ratings (6)."
+}

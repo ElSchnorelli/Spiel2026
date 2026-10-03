@@ -1,0 +1,63 @@
+{
+ "pos": 48,
+ "id": 268620,
+ "averageRating": 6.8,
+ "numRatings": 8100,
+ "weight": 1.05,
+ "designers": [
+  "Martino Chiacchiera",
+  "Hjalmar Hach",
+  "Pierluca Zizzi"
+ ],
+ "yearPublished": 2019,
+ "players": "2–8",
+ "playingTime": "10–15 Min",
+ "descriptionEn": "Similo is a co-operative deduction game. Each version of the game comes with a deck of thirty cards, beautifully illustrated, showing characters with a common theme. The goal is to make other players guess a secret character from a set of displayed characters by playing cards from your hand as clues about similarities or differences. You can combine cards from different sets for more challenging gameplay.",
+ "descriptionDe": "Similo ist ein kooperatives Rate- und Deduktionsspiel. Jede Ausgabe enthält 30 illustrierte Karten zu einem Thema. Ein Spieler kennt die gesuchte Figur und gibt mit Handkarten Hinweise auf Gemeinsamkeiten oder Unterschiede; die anderen raten gemeinsam. Die Sets lassen sich für mehr Schwierigkeit mischen.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Similo (German editions, e.g. Similo: Wonders, Board Games '26)",
+  "publishers": [
+   "Horrible Guild",
+   "Albi",
+   "999 Games"
+  ]
+ },
+ "germanTitle": "Similo",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "BGG entry is the Similo franchise page (2019). Spiele-Offensive stocks many themed German variants (Märchen, Tiere, Mythen... ca. 8.51-10.99 EUR, 'In stock 1-3 days') but no plain 'Similo' base game; Spieletastisch lists Similo: Wonders (EN) 8.95 EUR, release August 2026, ships 1-3 Werktage. Not accepted as the game itself, hence found:false. Spielefürst: none."
+}

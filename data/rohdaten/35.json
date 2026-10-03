@@ -1,0 +1,54 @@
+{
+ "pos": 35,
+ "id": 402276,
+ "averageRating": 8.6,
+ "numRatings": 761,
+ "weight": 3.64,
+ "designers": [
+  "Jamie Jolly"
+ ],
+ "yearPublished": 2026,
+ "players": "2–4",
+ "playingTime": "90–120 Min",
+ "descriptionEn": "Lead factions of myth and legend to explore the misty isle of Avalon. An Arthurian-based area-control and exploration game: explore the mists, discover legendary items of power, bond mythic beasts, hunt for the grail and prepare for war. Whoever has the most Victory Points at the end of the final season wins.",
+ "descriptionDe": "In Avalon: The Riven Veil führt man mythische Fraktionen über die nebelverhangene Insel Avalon. Das Spiel mischt Gebietskontrolle und Erkundung mit Artus-Thema: Man entdeckt Artefakte, verbündet sich mit Fabelwesen, jagt den Gral und rüstet sich zum Krieg. Nach zwei oder drei Jahreszeiten gewinnt, wer die meisten Siegpunkte hat.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Avalon: The Riven Veil",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Avalon the Riven Veil - Retail Edition (EN)",
+   "edition": "EN",
+   "url": "https://www.spieletastisch.de/produkte/8396-avalon-the-riven-veil-retail-edition-en",
+   "price": 62.95,
+   "availabilityText": "Vorbestellbar",
+   "availableNow": false,
+   "releaseDate": "Juni 2025"
+  }
+ ],
+ "notes": "Nur englische Ausgabe (Shadowborne Games). Spieletastisch-Erscheinungsdatum 'Juni 2025' ist offenbar veraltet, Status 'Vorbestellbar'. Weitere Spieletastisch-Seiten sind Erweiterungen."
+}

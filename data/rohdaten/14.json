@@ -1,0 +1,61 @@
+{
+ "pos": 14,
+ "id": 446892,
+ "averageRating": 8.5,
+ "numRatings": 31,
+ "weight": null,
+ "designers": [
+  "Carl de Visser",
+  "Jarratt Gray"
+ ],
+ "yearPublished": 2026,
+ "players": "1–5",
+ "playingTime": "45–90 Min",
+ "descriptionEn": "Explore the ocean and save the environment in even more challenging missions at sea. The Endeavor: Deep Sea – Uncharted Waters expansion pushes players to the edge with challenging new missions, undiscovered depths to explore, and new specialists looking to join your crew and make an impact on the world. Players also get to incorporate new mini-expansions tasking them with saving endangered aquatic wildlife, exploring deeper depths than ever possible, and restoring the fragile balance of the marine ecosystem.",
+ "descriptionDe": "Die Erweiterung bringt neue, anspruchsvollere Missionen, unentdeckte Tiefen und neue Fachleute für eure Crew. Zusätzlich gibt es Mini-Erweiterungen zum Schutz bedrohter Meerestiere, zum Erkunden noch größerer Tiefen und zur Wiederherstellung des maritimen Gleichgewichts.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Endeavor: Die Tiefsee – Am Meeresgrund",
+  "publishers": [
+   "Frosted Games",
+   "Board Game Circus"
+  ]
+ },
+ "germanTitle": "Endeavor: Die Tiefsee – Am Meeresgrund",
+ "shops": [
+  {
+   "found": true,
+   "productName": "Endeavor | Am Meeresgrund - Erweiterung",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Endeavor-Am-Meeresgrund-Erweiterung-1034900.html",
+   "price": 29.89,
+   "availabilityText": "jetzt vorbestellen. \"Endeavor: Am Meeresgrund\" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
+   "availableNow": false,
+   "releaseDate": "Ende Oktober 2026",
+   "shop": "Spiele-Offensive"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "found": true,
+   "productName": "Am Meeresgrund - Endeavor: Die Tiefsee (Erweiterung)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/11453-am-meeresgrund-endeavor-die-tiefsee-erweiterung",
+   "price": 31.45,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026",
+   "shop": "Spieletastisch"
+  }
+ ],
+ "notes": "Expansion for Endeavor: Die Tiefsee. Spielefürst only had the base game (Retail Ausgabe, 55.90, not available) -> not counted. Spieletastisch availability 'ab Oktober 2026'; SO 'ab Ende Oktober 2026'. weight null (BGG 0)."
+}

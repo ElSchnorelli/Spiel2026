@@ -1,0 +1,59 @@
+{
+ "pos": 6,
+ "id": 457557,
+ "averageRating": 7.8,
+ "numRatings": 36,
+ "weight": 3.0,
+ "designers": [
+  "Dani Garcia"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "60–100 Min",
+ "descriptionEn": "Discover the life and mind of the genius behind the modernist revolution. Shape forms, balance light and nature, and bring to life the visionary style that redefined architecture. Players travel through Gaudí's life and work, earning Victory Points in the three pillars that shaped his works: Nature, Catalonia, and Religion. The game unfolds over three rounds in which players draw cards and collect tiles; the most balanced combination of victory points wins.",
+ "descriptionDe": "In Gaudí taucht ihr in Leben und Werk des genialen Architekten des katalanischen Modernismus ein. Ihr sammelt Siegpunkte in den drei Säulen seines Schaffens – Natur, Katalonien und Religion – indem ihr über drei Runden Karten zieht und Plättchen einsammelt. Gewinnen wird, wer die ausgewogenste Kombination an Siegpunkten erreicht.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "Gaudí Name Pending - German edition",
+  "publishers": [
+   "HUCH!"
+  ]
+ },
+ "germanTitle": "Gaudí",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "Gaudí",
+   "edition": "DE",
+   "url": "https://www.spiele-offensive.de/Spiel/Gaud-1035419.html",
+   "price": 24.99,
+   "availabilityText": "jetzt vorbestellen. Gaudí erwarten wir ca. ende Oktober",
+   "availableNow": false,
+   "releaseDate": "ca. Ende Oktober 2026"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Gaudí (Gaudi) (DE)",
+   "edition": "DE",
+   "url": "https://www.spieletastisch.de/produkte/12254-gaudi-gaudi-de",
+   "price": 32.5,
+   "availabilityText": "Vorbestellbar",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026"
+  }
+ ],
+ "notes": "SO product matched via EAN 4260071885647 (same as Spieletastisch; publisher Hutter Trade/Huch!). Price differs strongly (24,99 vs 32,50). BGG playing time 60-100 vs Spieletastisch 45-90. Spielefürst: no match (search returned unrelated Army Painter items)."
+}

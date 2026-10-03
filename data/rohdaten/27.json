@@ -1,0 +1,54 @@
+{
+ "pos": 27,
+ "id": 469504,
+ "averageRating": 7.3,
+ "numRatings": 25,
+ "weight": 3.6,
+ "designers": [
+  "Dani Garcia"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "45–120 Min",
+ "descriptionEn": "In Diables you lead a colla in the Mediterranean tradition of the Ball de Diables. Manage your troupe of performers, coordinate different types of fireworks, and adapt to evolving events to stage breathtaking street performances. Balance timing, resource management and positioning to earn the highest prestige.",
+ "descriptionDe": "In Diables führst du eine Colla im Geiste der mediterranen Tradition des Ball de Diables. Du steuerst deine Truppe, koordinierst verschiedene Feuerwerksarten und reagierst auf wechselnde Ereignisse, um atemberaubende Straßenaufführungen auf die Beine zu stellen. Timing, Ressourcenmanagement und Positionierung entscheiden, wer das meiste Ansehen erntet.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Diables",
+ "notes": "BGG versions: only English/Spanish/Catalan edition (Salt & Pepper Games). Not found at Spiele-Offensive (empty), Spielefürst (unrelated result) or Spieletastisch (site search returned nothing relevant).",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ]
+}

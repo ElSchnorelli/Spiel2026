@@ -1,0 +1,55 @@
+{
+ "pos": 49,
+ "id": 388692,
+ "averageRating": 7.9,
+ "numRatings": 57,
+ "weight": 3.0,
+ "designers": [
+  "Nestore Mangone",
+  "Andrea Robbiani"
+ ],
+ "yearPublished": 2026,
+ "players": "1–5",
+ "playingTime": "60–120 Min",
+ "descriptionEn": "In Timeless Journeys: The Italian Grand Tour, you step into the shoes of Europe's first true tourists, crossing Italy from Turin to Palermo in the 18th and 19th centuries. At its heart, the game blends deck building, card chaining, set collection, and route planning. Travel, Friendship, and Inspiration cards let you journey across Italy, meet locals, and commit ideas to your Travel Journals. Played in 5 rounds over 60-120 minutes.",
+ "descriptionDe": "In Timeless Journeys schlüpfst du in die Rolle der ersten Europa-Touristen und bereist Italien von Turin bis Palermo. Das Spiel verbindet Deckbau, Kartenketten, Set-Sammlung und Routenplanung. Mit Reise-, Freundschafts- und Inspirationskarten erlebst du Städte und trägst Entdeckungen in dein Reisetagebuch ein. Nach fünf Runden gewinnt, wer die meisten Siegpunkte hat.",
+ "germanVersion": false,
+ "germanEdition": null,
+ "germanTitle": "Timeless Journeys: The Italian Grand Tour",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": null,
+   "releaseDate": null
+  }
+ ],
+ "notes": "BGG versions: English only (Lirius Games, incl. Collector's Edition). Not found in any shop (Spiele-Offensive only returned unrelated Unlock! Timeless Adventures)."
+}
