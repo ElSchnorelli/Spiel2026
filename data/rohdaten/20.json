@@ -18,15 +18,16 @@
  "germanTitle": "Shugendo",
  "shops": [
   {
-   "found": true,
-   "productName": "Shugendo",
+   "shop": "Spiele-Offensive",
+   "found": false,
+   "productName": null,
    "edition": null,
-   "url": "https://www.spiele-offensive.de/Spiel/Shugendo",
-   "price": 29.99,
-   "availabilityText": "Sofort lieferbar",
-   "availableNow": true,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": false,
    "releaseDate": null,
-   "shop": "Spiele-Offensive"
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -36,19 +37,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
+   "shop": "Spieletastisch",
    "found": true,
    "productName": "Shugendo (EN)",
-   "edition": "EN",
    "url": "https://www.spieletastisch.de/produkte/12126-shugendo-en",
    "price": 35.95,
    "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
    "availableNow": false,
    "releaseDate": "September 2026",
-   "shop": "Spieletastisch"
+   "edition": "EN",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "BGG versions list only a Devir multilingual edition (CA/EN/IT/PT/ES); no German -> germanVersion false. Spieletastisch lists 'Shugendo (EN)' Devir Games 35.95. SO result URL was truncated (https://www.spiele-offensive.de/Spiel/Shugendo), edition unknown. Spielefürst: not found. weight null (BGG 0), only 4 ratings."

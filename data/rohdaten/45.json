@@ -25,8 +25,9 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -36,19 +37,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Buried Memories (EN)",
-   "edition": "EN",
    "url": "https://www.spieletastisch.de/produkte/11700-buried-memories-en",
    "price": 20.95,
    "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
    "availableNow": false,
-   "releaseDate": "Oktober 2026"
+   "releaseDate": "Oktober 2026",
+   "edition": "EN",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Only 3 ratings; weight not available (0 on BGG -> null). BGG versions page not scraped (rate limit); German edition not known, Spieletastisch lists EN (Publishing Technology & Solution). Spiele-Offensive/Spielefürst: no match."

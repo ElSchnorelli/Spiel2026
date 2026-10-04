@@ -25,34 +25,37 @@
    "shop": "Spiele-Offensive",
    "found": true,
    "productName": "Eternal Decks",
-   "edition": "DE",
    "url": "https://www.spiele-offensive.de/Spiel/Eternal-Decks-1035488.html",
    "price": 35.89,
-   "availabilityText": "Eternal Decks erwarten wir ca. Ende Dezember (Vorbestellung)",
+   "availabilityText": "jetzt vorbestellen . Eternal Decks erwarten wir ca. ende Dezember",
    "availableNow": false,
-   "releaseDate": "Ende Dezember 2026"
+   "releaseDate": "ende Dezember",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
    "found": true,
-   "productName": "Eternal Decks | Vorbestellung",
-   "edition": "DE",
+   "productName": "Eternal Decks",
    "url": "https://spielefuerst.de/products/eternal-decks",
    "price": 37.5,
-   "availabilityText": "Vorbestellartikel, Lieferdatum Dezember 2026",
+   "availabilityText": "Vorbestellung",
    "availableNow": false,
-   "releaseDate": "Dezember 2026"
+   "releaseDate": null,
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Eternal Decks (DE)",
-   "edition": "DE",
    "url": "https://www.spieletastisch.de/produkte/12095-eternal-decks-de",
    "price": 35.95,
    "availabilityText": "VORAUSSICHTLICH lieferbar ab Dezember 2026",
    "availableNow": false,
-   "releaseDate": "Dezember 2026"
+   "releaseDate": "Oktober 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "German edition by Strohmann Games per shops (tag 'Sprache: Deutsch'); BGG versions page not scraped (rate limit). BGG year 2025 (original)."

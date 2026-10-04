@@ -24,8 +24,9 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -35,8 +36,9 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
@@ -46,8 +48,9 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "BGG-Rating 7.5 bei 1000 numRatings (Zahl evtl. gerundet/ca., reviewCount 1033). Nur englische Ausgabe von Bézier Games. In keinem der drei Shops gefunden."

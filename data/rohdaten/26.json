@@ -30,8 +30,9 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -41,19 +42,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Chivalry (DE)",
-   "edition": "DE",
    "url": "https://www.spieletastisch.de/produkte/11974-chivalry-de",
    "price": 54.95,
-   "availabilityText": "Vorbestellbar",
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Februar 2027",
    "availableNow": false,
-   "releaseDate": "Februar 2027"
+   "releaseDate": "Februar 2027",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "BGG weight 0 (too few votes) -> null. BGG lists German edition by dlp games/Game's Up; Spieletastisch search snippet names Frosted Games as publisher of the DE edition (also showed a 62,95 EUR figure, page price 54,95 EUR, list price 65,00). Spiele-Offensive empty result; Spielefürst only unrelated paints."

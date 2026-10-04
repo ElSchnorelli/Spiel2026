@@ -25,8 +25,9 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -36,8 +37,9 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
@@ -47,8 +49,9 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Nur 6 Bewertungen. Erscheinungsjahr 2027. Salt & Pepper Games (EN/ES). Keine deutsche Ausgabe bekannt; in keinem Shop gefunden."

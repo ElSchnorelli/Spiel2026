@@ -28,34 +28,37 @@
    "shop": "Spiele-Offensive",
    "found": true,
    "productName": "Entropy",
-   "edition": "DE",
    "url": "https://www.spiele-offensive.de/Spiel/Entropy-1034973.html",
    "price": 49.39,
-   "availabilityText": "Ware wurde bereits nachbestellt, aber Lieferzeitwarnung liegt vor.",
+   "availabilityText": "jetzt vorbestellen . Entropy ist voraussichtlich ab Anfang Oktober wieder lieferbar.",
    "availableNow": false,
-   "releaseDate": null
+   "releaseDate": "Anfang Oktober",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
    "found": true,
    "productName": "Entropy",
-   "edition": "DE",
    "url": "https://spielefuerst.de/products/entropy",
    "price": 49.9,
-   "availabilityText": "available=true (Shopify), tags: Sprache: Deutsch, Neuerscheinungen, kein Vorbestellartikel",
+   "availabilityText": "sofort lieferbar",
    "availableNow": true,
-   "releaseDate": null
+   "releaseDate": null,
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Entropy (DE)",
-   "edition": "DE",
    "url": "https://www.spieletastisch.de/produkte/11538-entropy-de",
    "price": 49.95,
    "availabilityText": "Sofort versandfertig, Lieferfrist 1-3 Werktage.",
    "availableNow": true,
-   "releaseDate": "Oktober 2026"
+   "releaseDate": null,
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Spielefürst availability inferred from Shopify 'available' flag in suggest.json (product page not scraped). Spieletastisch also lists EN edition (Board & Dice, 44,95 EUR)."

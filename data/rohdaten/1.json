@@ -1,9 +1,64 @@
-{"pos":1,"id":474125,"averageRating":8.2,"numRatings":24,"weight":3.29,"designers":["Alexander Pfister","Peter Prinz"],"yearPublished":2026,"players":"1–4","playingTime":"120–180 Min",
-"descriptionEn":"Lead an expedition to the meteorite impact site. Several research teams just landed on the shores of Antarctica. Your objectives are clear: establish a highly efficient network of stations, scout the unforgiving landscape, reach the mysterious meteorite impact site and be the most successful research team to go down in the history books. Combine scarce resources with your technological expertise to gear up for expeditions and launch groundbreaking scientific projects.",
-"descriptionDe":"Ihr leitet eine Forschungsexpedition in die Antarktis und wollt als erstes Team die Einschlagstelle eines Meteoriten erreichen. Dazu baut ihr ein effizientes Stationsnetz auf, erkundet die eisige Landschaft und setzt knappe Ressourcen sowie Technik für Expeditionen und Forschungsprojekte ein. Kälte und Stürme zwingen euch, Risiko und Wagemut sorgfältig abzuwägen.",
-"germanVersion":true,"germanEdition":{"name":"60° Name Pending - German edition","publishers":["dlp games","Nanox Games"]},"germanTitle":"-60° - 60 Below",
-"shops":[
-{"shop":"Spiele-Offensive","found":false,"productName":null,"edition":null,"url":null,"price":null,"availabilityText":null,"availableNow":null,"releaseDate":null},
-{"shop":"Spielefürst","found":false,"productName":null,"edition":null,"url":null,"price":null,"availabilityText":null,"availableNow":null,"releaseDate":null},
-{"shop":"Spieletastisch","found":true,"productName":"-60° - 60 Below (DE)","edition":"DE","url":"https://www.spieletastisch.de/produkte/11975-60-60-below-de","price":71.95,"availabilityText":"Vorbestellbar","availableNow":false,"releaseDate":"Dezember 2026"}],
-"notes":"Search snippet for Spieletastisch listed Erscheinungsdatum Oktober 2026, but product page scrape says Dezember 2026. Searched SO/Spielefürst for '-60°' and '60 Below': no match."}
+{
+ "pos": 1,
+ "id": 474125,
+ "averageRating": 8.2,
+ "numRatings": 24,
+ "weight": 3.29,
+ "designers": [
+  "Alexander Pfister",
+  "Peter Prinz"
+ ],
+ "yearPublished": 2026,
+ "players": "1–4",
+ "playingTime": "120–180 Min",
+ "descriptionEn": "Lead an expedition to the meteorite impact site. Several research teams just landed on the shores of Antarctica. Your objectives are clear: establish a highly efficient network of stations, scout the unforgiving landscape, reach the mysterious meteorite impact site and be the most successful research team to go down in the history books. Combine scarce resources with your technological expertise to gear up for expeditions and launch groundbreaking scientific projects.",
+ "descriptionDe": "Ihr leitet eine Forschungsexpedition in die Antarktis und wollt als erstes Team die Einschlagstelle eines Meteoriten erreichen. Dazu baut ihr ein effizientes Stationsnetz auf, erkundet die eisige Landschaft und setzt knappe Ressourcen sowie Technik für Expeditionen und Forschungsprojekte ein. Kälte und Stürme zwingen euch, Risiko und Wagemut sorgfältig abzuwägen.",
+ "germanVersion": true,
+ "germanEdition": {
+  "name": "60° Name Pending - German edition",
+  "publishers": [
+   "dlp games",
+   "Nanox Games"
+  ]
+ },
+ "germanTitle": "-60° - 60 Below",
+ "shops": [
+  {
+   "shop": "Spiele-Offensive",
+   "found": true,
+   "productName": "-60° (de) ",
+   "url": "https://www.spiele-offensive.de/Spiel/60-de-1035033.html",
+   "price": 71.89,
+   "availabilityText": "jetzt vorbestellen . \"-60°\" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
+   "availableNow": false,
+   "releaseDate": "Ende Oktober 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
+  },
+  {
+   "shop": "Spielefürst",
+   "found": false,
+   "productName": null,
+   "edition": null,
+   "url": null,
+   "price": null,
+   "availabilityText": null,
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "-60° - 60 Below (DE)",
+   "url": "https://www.spieletastisch.de/produkte/11975-60-60-below-de",
+   "price": 71.95,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Dezember 2026",
+   "availableNow": false,
+   "releaseDate": "Oktober 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
+  }
+ ],
+ "notes": "Search snippet for Spieletastisch listed Erscheinungsdatum Oktober 2026, but product page scrape says Dezember 2026. Searched SO/Spielefürst for '-60°' and '60 Below': no match."
+}

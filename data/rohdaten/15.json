@@ -22,37 +22,40 @@
  "germanTitle": "Kalypso",
  "shops": [
   {
+   "shop": "Spiele-Offensive",
    "found": true,
    "productName": "Kalypso",
-   "edition": "DE",
    "url": "https://www.spiele-offensive.de/Spiel/Kalypso-1034263.html",
    "price": 47.89,
-   "availabilityText": "Ware wurde bereits nachbestellt, aber Lieferzeitwarnung liegt vor.",
+   "availabilityText": "jetzt vorbestellen . Kalypso ist voraussichtlich ab Anfang Oktober wieder lieferbar.",
    "availableNow": false,
-   "releaseDate": null,
-   "shop": "Spiele-Offensive"
+   "releaseDate": "Anfang Oktober",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
-   "found": false,
-   "productName": null,
-   "edition": null,
-   "url": null,
-   "price": null,
-   "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "found": true,
+   "productName": "Kalypso",
+   "url": "https://spielefuerst.de/products/kalypso",
+   "price": 48.9,
+   "availabilityText": "Vorbestellung",
+   "availableNow": false,
+   "releaseDate": null,
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
-   "found": false,
-   "productName": null,
-   "edition": null,
-   "url": null,
-   "price": null,
-   "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "found": true,
+   "productName": "Kalypso (DE)",
+   "url": "https://www.spieletastisch.de/produkte/10701-kalypso-de",
+   "price": 49.5,
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
+   "availableNow": false,
+   "releaseDate": "September 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Spieletastisch: no product found (searches for Kalypso returned nothing relevant). Spielefürst: not found. German publisher Pegasus (standard and deluxe editions on BGG); SO price 47.89."

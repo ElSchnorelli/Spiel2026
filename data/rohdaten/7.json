@@ -27,12 +27,13 @@
    "shop": "Spiele-Offensive",
    "found": true,
    "productName": "Prag im Verborgenen",
-   "edition": "DE",
    "url": "https://www.spiele-offensive.de/Spiel/Prag-im-Verborgenen-1034835.html",
    "price": 49.89,
-   "availabilityText": "\"Prag im Verborgenen\" ist voraussichtlich ab Ende Oktober 2026 wieder lieferbar.",
+   "availabilityText": "jetzt vorbestellen . \"Prag im Verborgenen\" ist voraussichtlich ab Ende Oktober 2026 wieder lieferbar.",
    "availableNow": false,
-   "releaseDate": "Ende Oktober 2026"
+   "releaseDate": "Ende Oktober 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -42,19 +43,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Prag im Verborgenen",
-   "edition": "DE",
    "url": "https://www.spieletastisch.de/produkte/11814-prag-im-verborgenen",
    "price": 49.95,
-   "availabilityText": "Vorbestellbar",
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
    "availableNow": false,
-   "releaseDate": "Oktober 2026"
+   "releaseDate": "Oktober 2026",
+   "edition": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Spielefürst: no match for 'Prag im Verborgenen'. Other seen: brettspielloesung.de (publisher shop) 54,95 EUR preorder; spieletaxi 53,99 EUR."

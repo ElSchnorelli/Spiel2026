@@ -24,8 +24,9 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -35,19 +36,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Enchanted Ivy (EN)",
-   "edition": "EN",
    "url": "https://www.spieletastisch.de/produkte/11263-enchanted-ivy-en",
    "price": 15.95,
    "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
    "availableNow": false,
-   "releaseDate": "August 2026 (Produktseite; Lieferhinweis Oktober 2026)"
+   "releaseDate": "August 2026",
+   "edition": "EN",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Only English edition (allplay) on BGG versions. Spiele-Offensive and Spielefürst: no match. Spieletastisch availability from WebFetch summary."

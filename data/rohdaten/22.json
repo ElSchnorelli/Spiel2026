@@ -30,30 +30,33 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
    "found": true,
-   "productName": "Greenwood | Vorbestellung",
-   "edition": "DE",
+   "productName": "Greenwood",
    "url": "https://spielefuerst.de/products/greenwood",
    "price": 66.9,
-   "availabilityText": "Vorbestellbar: Lieferdatum November 2026",
+   "availabilityText": "Vorbestellung",
    "availableNow": false,
-   "releaseDate": "November 2026"
+   "releaseDate": null,
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Greenwood (DE)",
-   "edition": "DE",
    "url": "https://www.spieletastisch.de/produkte/12368-greenwood-de",
    "price": 71.9,
    "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
    "availableNow": false,
-   "releaseDate": "November 2026"
+   "releaseDate": "November 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Spiele-Offensive: first JSON extraction returned placeholder data; verified via markdown: no matching article (Spiele-Offensive not stocking it)."

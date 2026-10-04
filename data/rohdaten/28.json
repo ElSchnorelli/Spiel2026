@@ -25,12 +25,13 @@
    "shop": "Spiele-Offensive",
    "found": true,
    "productName": "Bomb Busters | Upgrade Kit - Erweiterung",
-   "edition": "DE",
    "url": "https://www.spiele-offensive.de/Spiel/Bomb-Busters-Upgrade-Kit-Erweiterung-1035245.html",
    "price": 22.49,
-   "availabilityText": "Vorbestellbar, erscheint voraussichtlich ab Ende Oktober 2026.",
+   "availabilityText": "jetzt vorbestellen . \"Bomb Busters | Upgrade Kit - Erweiterung\" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
    "availableNow": false,
-   "releaseDate": "Ende Oktober 2026 (2026-10-31)"
+   "releaseDate": "Ende Oktober 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -40,19 +41,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Bomb Busters: Upgrade Kit (DE)",
-   "edition": "DE",
    "url": "https://www.spieletastisch.de/produkte/11650-bomb-busters-upgrade-kit-de",
    "price": 22.5,
    "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
    "availableNow": false,
-   "releaseDate": "Oktober 2026 (Seite: lieferbar ab November 2026)"
+   "releaseDate": "Oktober 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Expansion. No BGG rating yet (0 ratings) -> null; weight null. German edition sold as 'Bomb Busters: Upgrade Kit' (Pegasus Spiele). Spiele-Offensive product found via web search (its own search box does not match it). Spielefürst: only 3D-printed accessories, not the Upgrade Kit."

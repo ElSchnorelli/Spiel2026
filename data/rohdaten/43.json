@@ -22,12 +22,13 @@
    "shop": "Spiele-Offensive",
    "found": true,
    "productName": "Container (en)",
-   "edition": "EN",
    "url": "https://www.spiele-offensive.de/Spiel/Container-en-1034992.html",
-   "price": 29.89,
-   "availabilityText": "Vorbestellbar, voraussichtlich Ende November 2026",
+   "price": 29.9,
+   "availabilityText": "jetzt vorbestellen . \"Container (en)\" ist voraussichtlich ab Ende November 2026 wieder lieferbar.",
    "availableNow": false,
-   "releaseDate": "Ende November 2026"
+   "releaseDate": "Ende November 2026",
+   "edition": "EN",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -37,19 +38,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Container (EN)",
-   "edition": "EN",
    "url": "https://www.spieletastisch.de/produkte/11071-container-en",
    "price": 31.95,
    "availabilityText": "VORAUSSICHTLICH lieferbar ab Januar 2027",
    "availableNow": false,
-   "releaseDate": "Juni 2026 (Produktseite; Lieferhinweis Januar 2027)"
+   "releaseDate": "Juni 2026",
+   "edition": "EN",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "BGG versions list only English (Allplay/BNW) editions; no German edition yet. Spielefürst search returned only unrelated items. Shop availability text via WebFetch summaries (paraphrased in part)."

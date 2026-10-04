@@ -23,37 +23,40 @@
  "germanTitle": "Medico",
  "shops": [
   {
+   "shop": "Spiele-Offensive",
    "found": true,
    "productName": "Medico",
-   "edition": "DE",
    "url": "https://www.spiele-offensive.de/Spiel/Medico-1034974.html",
    "price": 53.99,
-   "availabilityText": "Ware wurde bereits nachbestellt, aber Lieferzeitwarnung liegt vor.",
+   "availabilityText": "jetzt vorbestellen . \"Medico\" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
    "availableNow": false,
-   "releaseDate": null,
-   "shop": "Spiele-Offensive"
+   "releaseDate": "Ende Oktober 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
-   "found": false,
-   "productName": null,
-   "edition": null,
-   "url": null,
-   "price": null,
-   "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
-  },
-  {
    "found": true,
    "productName": "Medico",
+   "url": "https://spielefuerst.de/products/medico",
+   "price": 53.9,
+   "availabilityText": "Vorbestellung",
+   "availableNow": false,
+   "releaseDate": null,
    "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
+  },
+  {
+   "shop": "Spieletastisch",
+   "found": true,
+   "productName": "Medico",
    "url": "https://www.spieletastisch.de/produkte/11606-medico",
    "price": 53.99,
    "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
    "availableNow": false,
    "releaseDate": "Oktober 2026",
-   "shop": "Spieletastisch"
+   "edition": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Spielefürst: not found (search only returned unrelated 'Media Aetas'). German publisher Pegasus per BGG/Spieletastisch. weight 2.8."

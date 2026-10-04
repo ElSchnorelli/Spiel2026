@@ -22,15 +22,16 @@
  "germanTitle": "Nacht im Zoo",
  "shops": [
   {
+   "shop": "Spiele-Offensive",
    "found": true,
    "productName": "Nacht im Zoo",
-   "edition": "DE",
    "url": "https://www.spiele-offensive.de/Spiel/Nacht-im-Zoo-1034833.html",
    "price": 36.99,
-   "availabilityText": "Sofort lieferbar",
-   "availableNow": true,
+   "availabilityText": "jetzt vorbestellen . Die Erstauflage ist bereits durchverkauft. Der Nachdruck wird im November erwartet.",
+   "availableNow": false,
    "releaseDate": null,
-   "shop": "Spiele-Offensive"
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -40,19 +41,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
+   "shop": "Spieletastisch",
    "found": true,
    "productName": "Nacht im Zoo",
-   "edition": "DE",
    "url": "https://www.spieletastisch.de/produkte/11834-nacht-im-zoo",
    "price": 27.95,
-   "availabilityText": "Zurzeit nicht lieferbar. Wird nicht mehr nachbestellt.",
+   "availabilityText": "Zurzeit nicht lieferbar.",
    "availableNow": false,
    "releaseDate": "Juli 2026",
-   "shop": "Spieletastisch"
+   "edition": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "BGG numRatings=400 taken from page reviewCount. German BGG edition: Albi 'Nacht im Zoo' (name pending). Spieletastisch lists publisher Capstone Games, 'Zurzeit nicht lieferbar', so DE edition attribution uncertain; Spiele-Offensive 'Sofort lieferbar'. Spielefürst: not found."

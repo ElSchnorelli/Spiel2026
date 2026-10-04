@@ -24,8 +24,9 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -35,19 +36,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Avalon the Riven Veil - Retail Edition (EN)",
-   "edition": "EN",
    "url": "https://www.spieletastisch.de/produkte/8396-avalon-the-riven-veil-retail-edition-en",
    "price": 62.95,
-   "availabilityText": "Vorbestellbar",
+   "availabilityText": "Lieferdatum aktuell unbekannt",
    "availableNow": false,
-   "releaseDate": "Juni 2025"
+   "releaseDate": "Juni 2025",
+   "edition": "EN",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Nur englische Ausgabe (Shadowborne Games). Spieletastisch-Erscheinungsdatum 'Juni 2025' ist offenbar veraltet, Status 'Vorbestellbar'. Weitere Spieletastisch-Seiten sind Erweiterungen."

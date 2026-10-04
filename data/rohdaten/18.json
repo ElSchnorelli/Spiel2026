@@ -24,15 +24,16 @@
  "germanTitle": "Thessaloniki: Handel im Zeitalter der Tetrarchie",
  "shops": [
   {
+   "shop": "Spiele-Offensive",
    "found": true,
    "productName": "Thessaloniki: Handel im Zeitalter der Tetrarchie",
-   "edition": "DE",
    "url": "https://www.spiele-offensive.de/Spiel/Thessaloniki-Handel-im-Zeitalter-der-Tetrarchie-1034450.html",
    "price": 55.0,
-   "availabilityText": "auf Lager 1-3 Tage, max. 1 Woche",
+   "availabilityText": "auf Lager Lieferzeit 1-3 Tage, max. 1 Woche. Bitte beachten Sie unseren Hinweis zu Lieferzeiten",
    "availableNow": true,
    "releaseDate": null,
-   "shop": "Spiele-Offensive"
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -42,19 +43,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
+   "shop": "Spieletastisch",
    "found": true,
    "productName": "Thessaloniki (EN)",
-   "edition": "EN",
    "url": "https://www.spieletastisch.de/produkte/10955-thessaloniki-en",
    "price": 40.95,
    "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
    "availableNow": false,
    "releaseDate": "Oktober 2026",
-   "shop": "Spieletastisch"
+   "edition": "EN",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Spieletastisch only has EN edition (Board & Dice, 40.95, ab November 2026). SO has the German edition at 55.00 'auf Lager'. Spielefürst: not found."

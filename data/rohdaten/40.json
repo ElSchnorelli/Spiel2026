@@ -24,14 +24,15 @@
  "shops": [
   {
    "shop": "Spiele-Offensive",
-   "found": false,
-   "productName": null,
-   "edition": null,
-   "url": null,
-   "price": null,
-   "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "found": true,
+   "productName": "Agent Avenue: Four Seasons (de)",
+   "url": "https://www.spiele-offensive.de/Spiel/Agent-Avenue-Four-Seasons-de-1035216.html",
+   "price": 11.49,
+   "availabilityText": "jetzt vorbestellen . \"Agent Avenue: Four Seasons (de)\" ist voraussichtlich ab Ende Dezember 2026 lieferbar.",
+   "availableNow": false,
+   "releaseDate": "Ende Dezember 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -41,19 +42,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Four Seasons - Agent Avenue (DE) (Erweiterung)",
-   "edition": "DE",
    "url": "https://www.spieletastisch.de/produkte/11911-four-seasons-agent-avenue-de-erweiterung",
    "price": 11.95,
-   "availabilityText": "Vorbestellung",
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Januar 2027",
    "availableNow": false,
-   "releaseDate": "Dezember 2026"
+   "releaseDate": "Dezember 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Erweiterung zu Agent Avenue. Nur 4 Bewertungen; BGG-Weight 0 -> null. Spielefürst führt Agent Avenue (Basis, 17,30 EUR) und Division M (12,90 EUR), aber Four Seasons nicht. Spiele-Offensive: kein Treffer."

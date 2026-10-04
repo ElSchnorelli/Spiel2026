@@ -26,34 +26,37 @@
    "shop": "Spiele-Offensive",
    "found": true,
    "productName": "Lost Ruins of Arnak | Surprise Shipment - Expansion (en)",
-   "edition": "EN",
    "url": "https://www.spiele-offensive.de/Spiel/Lost-Ruins-of-Arnak-Surprise-Shipment-Expansion-en-1035151.html",
    "price": 12.89,
-   "availabilityText": "\"Lost Ruins of Arnak | Surprise Shipment - Expansion (en)\" ist voraussichtlich ab Mitte Oktober 2026 wieder lieferbar.",
+   "availabilityText": "jetzt vorbestellen . \"Lost Ruins of Arnak | Surprise Shipment - Expansion (en)\" ist voraussichtlich ab Mitte Oktober 2026 wieder lieferbar.",
    "availableNow": false,
-   "releaseDate": "Mitte Oktober 2026"
+   "releaseDate": "Mitte Oktober 2026",
+   "edition": "EN",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
-   "found": false,
-   "productName": null,
-   "edition": null,
-   "url": null,
-   "price": null,
-   "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "found": true,
+   "productName": "Die verlorenen Ruinen von Arnak: Überraschungslieferung",
+   "url": "https://spielefuerst.de/products/die-verlorenen-ruinen-von-arnak-ueberraschungslieferung",
+   "price": 12.9,
+   "availabilityText": "Vorbestellung",
+   "availableNow": false,
+   "releaseDate": null,
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Überraschungslieferung- Die verlorenen Ruinen von Arnak",
-   "edition": "DE",
    "url": "https://www.spieletastisch.de/produkte/12016-ueberraschungslieferung-die-verlorenen-ruinen-von-arnak",
    "price": 12.95,
-   "availabilityText": "Vorbestellbar",
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
    "availableNow": false,
-   "releaseDate": "Oktober 2026"
+   "releaseDate": "Oktober 2026",
+   "edition": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Expansion. SO lists only the EN edition (the German one was not found in SO search). Spielefürst: no match (only other Arnak items)."

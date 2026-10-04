@@ -29,8 +29,9 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -40,19 +41,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Chronocritters (DE)",
-   "edition": "DE",
    "url": "https://www.spieletastisch.de/produkte/12284-chronocritters-de",
    "price": 57.95,
-   "availabilityText": "Available for pre-order",
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
    "availableNow": false,
-   "releaseDate": "November 2026"
+   "releaseDate": "November 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "BGG weight not yet available (0) -> null; only 9 ratings. SO and Spielefürst searches for 'Chronocritters' found nothing."

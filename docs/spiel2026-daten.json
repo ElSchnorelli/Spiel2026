@@ -30,14 +30,15 @@
   "shops": [
    {
     "shop": "Spiele-Offensive",
-    "found": false,
-    "productName": null,
-    "edition": null,
-    "url": null,
-    "price": null,
-    "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "found": true,
+    "productName": "-60° (de) ",
+    "url": "https://www.spiele-offensive.de/Spiel/60-de-1035033.html",
+    "price": 71.89,
+    "availabilityText": "jetzt vorbestellen . \"-60°\" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
+    "availableNow": false,
+    "releaseDate": "Ende Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -47,19 +48,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "-60° - 60 Below (DE)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/11975-60-60-below-de",
     "price": 71.95,
-    "availabilityText": "Vorbestellbar",
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab Dezember 2026",
     "availableNow": false,
-    "releaseDate": "Dezember 2026"
+    "releaseDate": "Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -99,8 +102,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -110,8 +114,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -121,8 +126,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -160,34 +166,37 @@
     "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Entropy",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Entropy-1034973.html",
     "price": 49.39,
-    "availabilityText": "Ware wurde bereits nachbestellt, aber Lieferzeitwarnung liegt vor.",
+    "availabilityText": "jetzt vorbestellen . Entropy ist voraussichtlich ab Anfang Oktober wieder lieferbar.",
     "availableNow": false,
-    "releaseDate": null
+    "releaseDate": "Anfang Oktober",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
     "found": true,
     "productName": "Entropy",
-    "edition": "DE",
     "url": "https://spielefuerst.de/products/entropy",
     "price": 49.9,
-    "availabilityText": "available=true (Shopify), tags: Sprache: Deutsch, Neuerscheinungen, kein Vorbestellartikel",
+    "availabilityText": "sofort lieferbar",
     "availableNow": true,
-    "releaseDate": null
+    "releaseDate": null,
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Entropy (DE)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/11538-entropy-de",
     "price": 49.95,
     "availabilityText": "Sofort versandfertig, Lieferfrist 1-3 Werktage.",
     "availableNow": true,
-    "releaseDate": "Oktober 2026"
+    "releaseDate": null,
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -222,8 +231,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -233,19 +243,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Timespan (EN)",
-    "edition": "EN",
     "url": "https://www.spieletastisch.de/produkte/11418-timespan-en",
     "price": 54.95,
-    "availabilityText": "Vorbesteller",
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
     "availableNow": false,
-    "releaseDate": "Oktober 2026"
+    "releaseDate": "Oktober 2026",
+    "edition": "EN",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -281,13 +293,14 @@
    {
     "shop": "Spiele-Offensive",
     "found": true,
-    "productName": "Drillers",
-    "edition": "DE",
+    "productName": "Drillers ",
     "url": "https://www.spiele-offensive.de/Spiel/Drillers-1034365.html",
     "price": 40.89,
-    "availabilityText": "jetzt vorbestellen. \"Drillers \" erscheint voraussichtlich Q4 2026",
+    "availabilityText": "jetzt vorbestellen . \"Drillers \" erscheint voraussichtlich Q4 2026",
     "availableNow": false,
-    "releaseDate": "Q4 2026"
+    "releaseDate": "Q4 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -297,19 +310,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Drillers (DE)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/10924-drillers-de",
     "price": 44.95,
-    "availabilityText": "Vorbestellbar",
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
     "availableNow": false,
-    "releaseDate": "Oktober 2026"
+    "releaseDate": "Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -344,12 +359,13 @@
     "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Gaudí",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Gaud-1035419.html",
     "price": 24.99,
-    "availabilityText": "jetzt vorbestellen. Gaudí erwarten wir ca. ende Oktober",
+    "availabilityText": "jetzt vorbestellen . Gaudí erwarten wir ca. ende Oktober",
     "availableNow": false,
-    "releaseDate": "ca. Ende Oktober 2026"
+    "releaseDate": "ende Oktober",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -359,19 +375,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Gaudí (Gaudi) (DE)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/12254-gaudi-gaudi-de",
     "price": 32.5,
-    "availabilityText": "Vorbestellbar",
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
     "availableNow": false,
-    "releaseDate": "Oktober 2026"
+    "releaseDate": "Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -408,12 +426,13 @@
     "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Prag im Verborgenen",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Prag-im-Verborgenen-1034835.html",
     "price": 49.89,
-    "availabilityText": "\"Prag im Verborgenen\" ist voraussichtlich ab Ende Oktober 2026 wieder lieferbar.",
+    "availabilityText": "jetzt vorbestellen . \"Prag im Verborgenen\" ist voraussichtlich ab Ende Oktober 2026 wieder lieferbar.",
     "availableNow": false,
-    "releaseDate": "Ende Oktober 2026"
+    "releaseDate": "Ende Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -423,19 +442,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Prag im Verborgenen",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/11814-prag-im-verborgenen",
     "price": 49.95,
-    "availabilityText": "Vorbestellbar",
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
     "availableNow": false,
-    "releaseDate": "Oktober 2026"
+    "releaseDate": "Oktober 2026",
+    "edition": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -471,12 +492,13 @@
     "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Kingdom Come: Deliverance (de)",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Kingdom-Come-Deliverance-de-1035390.html",
     "price": 124.99,
-    "availabilityText": "versandkostenfrei in Deutschland, jetzt vorbestellen.",
+    "availabilityText": "jetzt vorbestellen . \"Kingdom Come: Deliverance (de)\" ist erscheint voraussichtlich HJ1 2027",
     "availableNow": false,
-    "releaseDate": "HJ1 2027"
+    "releaseDate": "HJ1 2027",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -486,19 +508,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Kingdom Come: Deliverance (DE)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/11631-kingdom-come-deliverance-de",
     "price": 134.95,
-    "availabilityText": "Vorbestellbar",
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab Mai 2027",
     "availableNow": false,
-    "releaseDate": "Mai 2027"
+    "releaseDate": "Mai 2027",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -537,8 +561,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -548,19 +573,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Chronocritters (DE)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/12284-chronocritters-de",
     "price": 57.95,
-    "availabilityText": "Available for pre-order",
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
     "availableNow": false,
-    "releaseDate": "November 2026"
+    "releaseDate": "November 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -596,34 +623,37 @@
     "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Lost Ruins of Arnak | Surprise Shipment - Expansion (en)",
-    "edition": "EN",
     "url": "https://www.spiele-offensive.de/Spiel/Lost-Ruins-of-Arnak-Surprise-Shipment-Expansion-en-1035151.html",
     "price": 12.89,
-    "availabilityText": "\"Lost Ruins of Arnak | Surprise Shipment - Expansion (en)\" ist voraussichtlich ab Mitte Oktober 2026 wieder lieferbar.",
+    "availabilityText": "jetzt vorbestellen . \"Lost Ruins of Arnak | Surprise Shipment - Expansion (en)\" ist voraussichtlich ab Mitte Oktober 2026 wieder lieferbar.",
     "availableNow": false,
-    "releaseDate": "Mitte Oktober 2026"
+    "releaseDate": "Mitte Oktober 2026",
+    "edition": "EN",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
-    "found": false,
-    "productName": null,
-    "edition": null,
-    "url": null,
-    "price": null,
-    "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "found": true,
+    "productName": "Die verlorenen Ruinen von Arnak: Überraschungslieferung",
+    "url": "https://spielefuerst.de/products/die-verlorenen-ruinen-von-arnak-ueberraschungslieferung",
+    "price": 12.9,
+    "availabilityText": "Vorbestellung",
+    "availableNow": false,
+    "releaseDate": null,
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Überraschungslieferung- Die verlorenen Ruinen von Arnak",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/12016-ueberraschungslieferung-die-verlorenen-ruinen-von-arnak",
     "price": 12.95,
-    "availabilityText": "Vorbestellbar",
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
     "availableNow": false,
-    "releaseDate": "Oktober 2026"
+    "releaseDate": "Oktober 2026",
+    "edition": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -655,15 +685,16 @@
   "germanTitle": "Nacht im Zoo",
   "shops": [
    {
+    "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Nacht im Zoo",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Nacht-im-Zoo-1034833.html",
     "price": 36.99,
-    "availabilityText": "Sofort lieferbar",
-    "availableNow": true,
+    "availabilityText": "jetzt vorbestellen . Die Erstauflage ist bereits durchverkauft. Der Nachdruck wird im November erwartet.",
+    "availableNow": false,
     "releaseDate": null,
-    "shop": "Spiele-Offensive"
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -673,19 +704,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
+    "shop": "Spieletastisch",
     "found": true,
     "productName": "Nacht im Zoo",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/11834-nacht-im-zoo",
     "price": 27.95,
-    "availabilityText": "Zurzeit nicht lieferbar. Wird nicht mehr nachbestellt.",
+    "availabilityText": "Zurzeit nicht lieferbar.",
     "availableNow": false,
     "releaseDate": "Juli 2026",
-    "shop": "Spieletastisch"
+    "edition": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -718,37 +751,40 @@
   "germanTitle": "Medico",
   "shops": [
    {
+    "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Medico",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Medico-1034974.html",
     "price": 53.99,
-    "availabilityText": "Ware wurde bereits nachbestellt, aber Lieferzeitwarnung liegt vor.",
+    "availabilityText": "jetzt vorbestellen . \"Medico\" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
     "availableNow": false,
-    "releaseDate": null,
-    "shop": "Spiele-Offensive"
+    "releaseDate": "Ende Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
-    "found": false,
-    "productName": null,
-    "edition": null,
-    "url": null,
-    "price": null,
-    "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
-   },
-   {
     "found": true,
     "productName": "Medico",
+    "url": "https://spielefuerst.de/products/medico",
+    "price": 53.9,
+    "availabilityText": "Vorbestellung",
+    "availableNow": false,
+    "releaseDate": null,
     "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
+   },
+   {
+    "shop": "Spieletastisch",
+    "found": true,
+    "productName": "Medico",
     "url": "https://www.spieletastisch.de/produkte/11606-medico",
     "price": 53.99,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
     "availableNow": false,
     "releaseDate": "Oktober 2026",
-    "shop": "Spieletastisch"
+    "edition": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -783,8 +819,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -794,8 +831,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -805,8 +843,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -840,15 +879,16 @@
   "germanTitle": "Endeavor: Die Tiefsee – Am Meeresgrund",
   "shops": [
    {
+    "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Endeavor | Am Meeresgrund - Erweiterung",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Endeavor-Am-Meeresgrund-Erweiterung-1034900.html",
     "price": 29.89,
-    "availabilityText": "jetzt vorbestellen. \"Endeavor: Am Meeresgrund\" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
+    "availabilityText": "jetzt vorbestellen . \"Endeavor: Am Meeresgrund\" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
     "availableNow": false,
     "releaseDate": "Ende Oktober 2026",
-    "shop": "Spiele-Offensive"
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -858,8 +898,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "found": true,
@@ -902,37 +943,40 @@
   "germanTitle": "Kalypso",
   "shops": [
    {
+    "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Kalypso",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Kalypso-1034263.html",
     "price": 47.89,
-    "availabilityText": "Ware wurde bereits nachbestellt, aber Lieferzeitwarnung liegt vor.",
+    "availabilityText": "jetzt vorbestellen . Kalypso ist voraussichtlich ab Anfang Oktober wieder lieferbar.",
     "availableNow": false,
-    "releaseDate": null,
-    "shop": "Spiele-Offensive"
+    "releaseDate": "Anfang Oktober",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
-    "found": false,
-    "productName": null,
-    "edition": null,
-    "url": null,
-    "price": null,
-    "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "found": true,
+    "productName": "Kalypso",
+    "url": "https://spielefuerst.de/products/kalypso",
+    "price": 48.9,
+    "availabilityText": "Vorbestellung",
+    "availableNow": false,
+    "releaseDate": null,
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
-    "found": false,
-    "productName": null,
-    "edition": null,
-    "url": null,
-    "price": null,
-    "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "found": true,
+    "productName": "Kalypso (DE)",
+    "url": "https://www.spieletastisch.de/produkte/10701-kalypso-de",
+    "price": 49.5,
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
+    "availableNow": false,
+    "releaseDate": "September 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -966,8 +1010,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -977,8 +1022,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -988,8 +1034,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1022,15 +1069,16 @@
   "germanTitle": "Harmonies: Im Klang der Wildnis",
   "shops": [
    {
+    "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Harmonies | Im Klang der Wildnis - Erweiterung",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Harmonies-Im-Klang-der-Wildnis-Erweiterung-1034857.html",
     "price": 15.49,
-    "availabilityText": "jetzt vorbestellen. \"Harmonies | Im Klang der Wildnis - Erweiterung\" ist voraussichtlich ab Mitte Oktober 2026 lieferbar.",
+    "availabilityText": "jetzt vorbestellen . \"Harmonies | Im Klang der Wildnis - Erweiterung\" ist voraussichtlich ab Mitte Oktober 2026 lieferbar.",
     "availableNow": false,
     "releaseDate": "Mitte Oktober 2026",
-    "shop": "Spiele-Offensive"
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1040,19 +1088,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
+    "shop": "Spieletastisch",
     "found": true,
     "productName": "Klang der Wildnis - Harmonies (DE) (Erweiterung)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/11471-klang-der-wildnis-harmonies-de-erweiterung",
     "price": 15.95,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
     "availableNow": false,
     "releaseDate": "Oktober 2026",
-    "shop": "Spieletastisch"
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1086,15 +1136,16 @@
   "germanTitle": "Thessaloniki: Handel im Zeitalter der Tetrarchie",
   "shops": [
    {
+    "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Thessaloniki: Handel im Zeitalter der Tetrarchie",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Thessaloniki-Handel-im-Zeitalter-der-Tetrarchie-1034450.html",
     "price": 55.0,
-    "availabilityText": "auf Lager 1-3 Tage, max. 1 Woche",
+    "availabilityText": "auf Lager Lieferzeit 1-3 Tage, max. 1 Woche. Bitte beachten Sie unseren Hinweis zu Lieferzeiten",
     "availableNow": true,
     "releaseDate": null,
-    "shop": "Spiele-Offensive"
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1104,19 +1155,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
+    "shop": "Spieletastisch",
     "found": true,
     "productName": "Thessaloniki (EN)",
-    "edition": "EN",
     "url": "https://www.spieletastisch.de/produkte/10955-thessaloniki-en",
     "price": 40.95,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
     "availableNow": false,
     "releaseDate": "Oktober 2026",
-    "shop": "Spieletastisch"
+    "edition": "EN",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1148,15 +1201,16 @@
   "germanTitle": "The Mix",
   "shops": [
    {
+    "shop": "Spiele-Offensive",
     "found": true,
     "productName": "The Mix",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/The-Mix-1035109.html",
     "price": 56.19,
-    "availabilityText": "Sofort lieferbar",
-    "availableNow": true,
-    "releaseDate": null,
-    "shop": "Spiele-Offensive"
+    "availabilityText": "jetzt vorbestellen . \"The Mix\" ist voraussichtlich ab Ende Februar 2027 lieferbar.",
+    "availableNow": false,
+    "releaseDate": "Ende Februar 2027",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1166,19 +1220,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
+    "shop": "Spieletastisch",
     "found": true,
     "productName": "The Mix (DE & NL)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/11696-the-mix-de-und-nl",
     "price": 69.99,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab Januar 2027",
     "availableNow": false,
     "releaseDate": "Oktober 2026",
-    "shop": "Spieletastisch"
+    "edition": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1206,15 +1262,16 @@
   "germanTitle": "Shugendo",
   "shops": [
    {
-    "found": true,
-    "productName": "Shugendo",
+    "shop": "Spiele-Offensive",
+    "found": false,
+    "productName": null,
     "edition": null,
-    "url": "https://www.spiele-offensive.de/Spiel/Shugendo",
-    "price": 29.99,
-    "availabilityText": "Sofort lieferbar",
-    "availableNow": true,
+    "url": null,
+    "price": null,
+    "availabilityText": null,
+    "availableNow": false,
     "releaseDate": null,
-    "shop": "Spiele-Offensive"
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1224,19 +1281,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
+    "shop": "Spieletastisch",
     "found": true,
     "productName": "Shugendo (EN)",
-    "edition": "EN",
     "url": "https://www.spieletastisch.de/produkte/12126-shugendo-en",
     "price": 35.95,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
     "availableNow": false,
     "releaseDate": "September 2026",
-    "shop": "Spieletastisch"
+    "edition": "EN",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1272,8 +1331,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1283,8 +1343,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -1294,8 +1355,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1335,30 +1397,33 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
     "found": true,
-    "productName": "Greenwood | Vorbestellung",
-    "edition": "DE",
+    "productName": "Greenwood",
     "url": "https://spielefuerst.de/products/greenwood",
     "price": 66.9,
-    "availabilityText": "Vorbestellbar: Lieferdatum November 2026",
+    "availabilityText": "Vorbestellung",
     "availableNow": false,
-    "releaseDate": "November 2026"
+    "releaseDate": null,
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Greenwood (DE)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/12368-greenwood-de",
     "price": 71.9,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
     "availableNow": false,
-    "releaseDate": "November 2026"
+    "releaseDate": "November 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1393,8 +1458,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1404,8 +1470,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -1415,8 +1482,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1451,12 +1519,13 @@
     "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Mischwald Smoky Mountains (eigenständiges Spiel)",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Mischwald-Smoky-Mountains-eigenstaendiges-Spiel-1034693.html",
     "price": 25.89,
-    "availabilityText": "Vorbestellbar, erscheint voraussichtlich ab Ende Oktober 2026",
+    "availabilityText": "jetzt vorbestellen . \"Mischwald Smoky Mountains (eigenständiges Spiel)\" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
     "availableNow": false,
-    "releaseDate": "Ende Oktober 2026 (2026-10-31)"
+    "releaseDate": "Ende Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1466,19 +1535,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Mischwald - Smoky Mountains",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/11365-mischwald-smoky-mountains",
     "price": 26.95,
-    "availabilityText": "Vorbestellbar",
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
     "availableNow": false,
-    "releaseDate": "Oktober 2026"
+    "releaseDate": "Oktober 2026",
+    "edition": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1512,8 +1583,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1523,8 +1595,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -1534,8 +1607,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1575,8 +1649,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1586,19 +1661,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Chivalry (DE)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/11974-chivalry-de",
     "price": 54.95,
-    "availabilityText": "Vorbestellbar",
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab Februar 2027",
     "availableNow": false,
-    "releaseDate": "Februar 2027"
+    "releaseDate": "Februar 2027",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1632,8 +1709,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1643,8 +1721,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -1654,8 +1733,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1690,12 +1770,13 @@
     "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Bomb Busters | Upgrade Kit - Erweiterung",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Bomb-Busters-Upgrade-Kit-Erweiterung-1035245.html",
     "price": 22.49,
-    "availabilityText": "Vorbestellbar, erscheint voraussichtlich ab Ende Oktober 2026.",
+    "availabilityText": "jetzt vorbestellen . \"Bomb Busters | Upgrade Kit - Erweiterung\" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
     "availableNow": false,
-    "releaseDate": "Ende Oktober 2026 (2026-10-31)"
+    "releaseDate": "Ende Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1705,19 +1786,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Bomb Busters: Upgrade Kit (DE)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/11650-bomb-busters-upgrade-kit-de",
     "price": 22.5,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
     "availableNow": false,
-    "releaseDate": "Oktober 2026 (Seite: lieferbar ab November 2026)"
+    "releaseDate": "Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1756,8 +1839,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1767,8 +1851,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -1778,8 +1863,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1813,8 +1899,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1824,8 +1911,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -1835,8 +1923,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1876,8 +1965,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1887,8 +1977,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -1898,8 +1989,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1933,8 +2025,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -1944,19 +2037,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Níjar (Nijar) (EN)",
-    "edition": "EN",
     "url": "https://www.spieletastisch.de/produkte/11824-nijar-nijar-de",
     "price": 39.95,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab November 2026",
     "availableNow": false,
-    "releaseDate": "Oktober 2026"
+    "releaseDate": "Oktober 2026",
+    "edition": "EN",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -1990,8 +2085,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2001,8 +2097,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -2012,8 +2109,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2048,8 +2146,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2059,8 +2158,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -2070,8 +2170,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2105,8 +2206,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2116,19 +2218,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Avalon the Riven Veil - Retail Edition (EN)",
-    "edition": "EN",
     "url": "https://www.spieletastisch.de/produkte/8396-avalon-the-riven-veil-retail-edition-en",
     "price": 62.95,
-    "availabilityText": "Vorbestellbar",
+    "availabilityText": "Lieferdatum aktuell unbekannt",
     "availableNow": false,
-    "releaseDate": "Juni 2025"
+    "releaseDate": "Juni 2025",
+    "edition": "EN",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2168,8 +2272,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2179,8 +2284,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -2190,8 +2296,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2225,8 +2332,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2236,8 +2344,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -2247,8 +2356,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2285,12 +2395,13 @@
     "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Cascadia Bergseen",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Cascadia-Bergseen-1034820.html",
     "price": 32.89,
-    "availabilityText": "auf Lager 1-3 Tage, max. 1 Woche",
-    "availableNow": true,
-    "releaseDate": null
+    "availabilityText": "jetzt vorbestellen . \"Cascadia Bergseen\" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
+    "availableNow": false,
+    "releaseDate": "Ende Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2300,19 +2411,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Bergseen - Cascadia",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/12055-bergseen-cascadia",
     "price": 35.95,
-    "availabilityText": "Vorbestellung",
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
     "availableNow": false,
-    "releaseDate": "Oktober 2026"
+    "releaseDate": "Oktober 2026",
+    "edition": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2347,8 +2460,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2358,8 +2472,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -2369,8 +2484,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2404,14 +2520,15 @@
   "shops": [
    {
     "shop": "Spiele-Offensive",
-    "found": false,
-    "productName": null,
-    "edition": null,
-    "url": null,
-    "price": null,
-    "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "found": true,
+    "productName": "Agent Avenue: Four Seasons (de)",
+    "url": "https://www.spiele-offensive.de/Spiel/Agent-Avenue-Four-Seasons-de-1035216.html",
+    "price": 11.49,
+    "availabilityText": "jetzt vorbestellen . \"Agent Avenue: Four Seasons (de)\" ist voraussichtlich ab Ende Dezember 2026 lieferbar.",
+    "availableNow": false,
+    "releaseDate": "Ende Dezember 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2421,19 +2538,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Four Seasons - Agent Avenue (DE) (Erweiterung)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/11911-four-seasons-agent-avenue-de-erweiterung",
     "price": 11.95,
-    "availabilityText": "Vorbestellung",
+    "availabilityText": "VORAUSSICHTLICH lieferbar ab Januar 2027",
     "availableNow": false,
-    "releaseDate": "Dezember 2026"
+    "releaseDate": "Dezember 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2467,8 +2586,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2478,19 +2598,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Enchanted Ivy (EN)",
-    "edition": "EN",
     "url": "https://www.spieletastisch.de/produkte/11263-enchanted-ivy-en",
     "price": 15.95,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
     "availableNow": false,
-    "releaseDate": "August 2026 (Produktseite; Lieferhinweis Oktober 2026)"
+    "releaseDate": "August 2026",
+    "edition": "EN",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2524,8 +2646,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2535,8 +2658,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -2546,8 +2670,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2579,12 +2704,13 @@
     "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Container (en)",
-    "edition": "EN",
     "url": "https://www.spiele-offensive.de/Spiel/Container-en-1034992.html",
-    "price": 29.89,
-    "availabilityText": "Vorbestellbar, voraussichtlich Ende November 2026",
+    "price": 29.9,
+    "availabilityText": "jetzt vorbestellen . \"Container (en)\" ist voraussichtlich ab Ende November 2026 wieder lieferbar.",
     "availableNow": false,
-    "releaseDate": "Ende November 2026"
+    "releaseDate": "Ende November 2026",
+    "edition": "EN",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2594,19 +2720,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Container (EN)",
-    "edition": "EN",
     "url": "https://www.spieletastisch.de/produkte/11071-container-en",
     "price": 31.95,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab Januar 2027",
     "availableNow": false,
-    "releaseDate": "Juni 2026 (Produktseite; Lieferhinweis Januar 2027)"
+    "releaseDate": "Juni 2026",
+    "edition": "EN",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2642,35 +2770,38 @@
    {
     "shop": "Spiele-Offensive",
     "found": true,
-    "productName": "Cubaneo",
-    "edition": "DE",
+    "productName": "Cubaneo ",
     "url": "https://www.spiele-offensive.de/Spiel/Cubaneo-1034975.html",
     "price": 44.89,
-    "availabilityText": "Cubaneo ist voraussichtlich ab Ende Oktober 2026 lieferbar",
+    "availabilityText": "jetzt vorbestellen . \"Cubaneo \" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
     "availableNow": false,
-    "releaseDate": "Ende Oktober 2026"
+    "releaseDate": "Ende Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
-    "found": false,
-    "productName": null,
-    "edition": null,
-    "url": null,
-    "price": null,
-    "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "found": true,
+    "productName": "Cubaneo",
+    "url": "https://spielefuerst.de/products/cubaneo",
+    "price": 49.7,
+    "availabilityText": "Vorbestellung",
+    "availableNow": false,
+    "releaseDate": null,
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Cubaneo (DE)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/11648-cubaneo-de",
     "price": 44.95,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
     "availableNow": false,
-    "releaseDate": "Oktober 2026"
+    "releaseDate": "Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2705,8 +2836,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2716,19 +2848,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Buried Memories (EN)",
-    "edition": "EN",
     "url": "https://www.spieletastisch.de/produkte/11700-buried-memories-en",
     "price": 20.95,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
     "availableNow": false,
-    "releaseDate": "Oktober 2026"
+    "releaseDate": "Oktober 2026",
+    "edition": "EN",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2771,8 +2905,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2782,8 +2917,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -2793,8 +2929,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2829,34 +2966,37 @@
     "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Eternal Decks",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Eternal-Decks-1035488.html",
     "price": 35.89,
-    "availabilityText": "Eternal Decks erwarten wir ca. Ende Dezember (Vorbestellung)",
+    "availabilityText": "jetzt vorbestellen . Eternal Decks erwarten wir ca. ende Dezember",
     "availableNow": false,
-    "releaseDate": "Ende Dezember 2026"
+    "releaseDate": "ende Dezember",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
     "found": true,
-    "productName": "Eternal Decks | Vorbestellung",
-    "edition": "DE",
+    "productName": "Eternal Decks",
     "url": "https://spielefuerst.de/products/eternal-decks",
     "price": 37.5,
-    "availabilityText": "Vorbestellartikel, Lieferdatum Dezember 2026",
+    "availabilityText": "Vorbestellung",
     "availableNow": false,
-    "releaseDate": "Dezember 2026"
+    "releaseDate": null,
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
     "found": true,
     "productName": "Eternal Decks (DE)",
-    "edition": "DE",
     "url": "https://www.spieletastisch.de/produkte/12095-eternal-decks-de",
     "price": 35.95,
     "availabilityText": "VORAUSSICHTLICH lieferbar ab Dezember 2026",
     "availableNow": false,
-    "releaseDate": "Dezember 2026"
+    "releaseDate": "Oktober 2026",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2893,14 +3033,15 @@
   "shops": [
    {
     "shop": "Spiele-Offensive",
-    "found": false,
-    "productName": null,
-    "edition": null,
-    "url": null,
-    "price": null,
-    "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "found": true,
+    "productName": "Similo Geschichte",
+    "url": "https://www.spiele-offensive.de/Spiel/Similo-Geschichte-1024334.html",
+    "price": 10.99,
+    "availabilityText": "nur noch 1 Stück auf Lager Lieferzeit 1-3 Tage, max. 1 Woche. Bitte beachten Sie unseren Hinweis zu Lieferzeiten",
+    "availableNow": true,
+    "releaseDate": null,
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2910,19 +3051,21 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
-    "found": false,
-    "productName": null,
-    "edition": null,
-    "url": null,
-    "price": null,
-    "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "found": true,
+    "productName": "Similo - Jurassic World (DE)",
+    "url": "https://www.spieletastisch.de/produkte/7349-similo-jurassic-world-de",
+    "price": 10.5,
+    "availabilityText": "Lieferfrist: ca. 6-15 Werktage, sofern der Artikel beim Zulieferer aktuell verfügbar ist.",
+    "availableNow": false,
+    "releaseDate": "2024",
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -2957,8 +3100,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -2968,8 +3112,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -2979,8 +3124,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  },
@@ -3016,12 +3162,13 @@
     "shop": "Spiele-Offensive",
     "found": true,
     "productName": "Neon Hope - Grundspiel",
-    "edition": "DE",
     "url": "https://www.spiele-offensive.de/Spiel/Neon-Hope-Grundspiel-1035207.html",
     "price": 99.0,
-    "availabilityText": "Lieferzeit 1-3 Tage, max. 1 Woche (auf Lager, laut Seite sofort versandfertig am 03.10.2026)",
+    "availabilityText": "auf Lager Lieferzeit 1-3 Tage, max. 1 Woche. Bitte beachten Sie unseren Hinweis zu Lieferzeiten",
     "availableNow": true,
-    "releaseDate": null
+    "releaseDate": null,
+    "edition": "DE",
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spielefürst",
@@ -3031,8 +3178,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    },
    {
     "shop": "Spieletastisch",
@@ -3042,8 +3190,9 @@
     "url": null,
     "price": null,
     "availabilityText": null,
-    "availableNow": null,
-    "releaseDate": null
+    "availableNow": false,
+    "releaseDate": null,
+    "checkedAt": "2026-10-04T10:59+02:00"
    }
   ]
  }

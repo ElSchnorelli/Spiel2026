@@ -26,13 +26,14 @@
   {
    "shop": "Spiele-Offensive",
    "found": true,
-   "productName": "Drillers",
-   "edition": "DE",
+   "productName": "Drillers ",
    "url": "https://www.spiele-offensive.de/Spiel/Drillers-1034365.html",
    "price": 40.89,
-   "availabilityText": "jetzt vorbestellen. \"Drillers \" erscheint voraussichtlich Q4 2026",
+   "availabilityText": "jetzt vorbestellen . \"Drillers \" erscheint voraussichtlich Q4 2026",
    "availableNow": false,
-   "releaseDate": "Q4 2026"
+   "releaseDate": "Q4 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -42,19 +43,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
    "found": true,
    "productName": "Drillers (DE)",
-   "edition": "DE",
    "url": "https://www.spieletastisch.de/produkte/10924-drillers-de",
    "price": 44.95,
-   "availabilityText": "Vorbestellbar",
+   "availabilityText": "VORAUSSICHTLICH lieferbar ab Oktober 2026",
    "availableNow": false,
-   "releaseDate": "Oktober 2026"
+   "releaseDate": "Oktober 2026",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "Spielefürst suggest search returned only unrelated Army Painter items. Accessories 'Drillers Deluxe/Upgraded Components' exist at SO/Spieletastisch but not used."

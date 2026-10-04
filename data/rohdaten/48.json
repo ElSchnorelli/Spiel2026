@@ -27,14 +27,15 @@
  "shops": [
   {
    "shop": "Spiele-Offensive",
-   "found": false,
-   "productName": null,
-   "edition": null,
-   "url": null,
-   "price": null,
-   "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "found": true,
+   "productName": "Similo Geschichte",
+   "url": "https://www.spiele-offensive.de/Spiel/Similo-Geschichte-1024334.html",
+   "price": 10.99,
+   "availabilityText": "nur noch 1 Stück auf Lager Lieferzeit 1-3 Tage, max. 1 Woche. Bitte beachten Sie unseren Hinweis zu Lieferzeiten",
+   "availableNow": true,
+   "releaseDate": null,
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -44,19 +45,21 @@
    "url": null,
    "price": null,
    "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "availableNow": false,
+   "releaseDate": null,
+   "checkedAt": "2026-10-04T10:59+02:00"
   },
   {
    "shop": "Spieletastisch",
-   "found": false,
-   "productName": null,
-   "edition": null,
-   "url": null,
-   "price": null,
-   "availabilityText": null,
-   "availableNow": null,
-   "releaseDate": null
+   "found": true,
+   "productName": "Similo - Jurassic World (DE)",
+   "url": "https://www.spieletastisch.de/produkte/7349-similo-jurassic-world-de",
+   "price": 10.5,
+   "availabilityText": "Lieferfrist: ca. 6-15 Werktage, sofern der Artikel beim Zulieferer aktuell verfügbar ist.",
+   "availableNow": false,
+   "releaseDate": "2024",
+   "edition": "DE",
+   "checkedAt": "2026-10-04T10:59+02:00"
   }
  ],
  "notes": "BGG entry is the Similo franchise page (2019). Spiele-Offensive stocks many themed German variants (Märchen, Tiere, Mythen... ca. 8.51-10.99 EUR, 'In stock 1-3 days') but no plain 'Similo' base game; Spieletastisch lists Similo: Wonders (EN) 8.95 EUR, release August 2026, ships 1-3 Werktage. Not accepted as the game itself, hence found:false. Spielefürst: none."
