@@ -39,6 +39,20 @@ h1 { font-family: var(--display); font-stretch: 75%; font-weight: 850; font-size
 .lede { color: var(--muted); max-width: 70ch; margin: 4px 0 0; }
 .lede a { color: var(--accent); }
 
+.refresh { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin-top: 10px; font-size: 14px; color: var(--muted); }
+.btn { font: inherit; font-size: 14px; font-weight: 700; color: var(--surface); background: var(--accent); border: 0; border-radius: 8px; padding: 8px 14px; cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; }
+.btn:hover { filter: brightness(1.08); }
+.btn[disabled] { opacity: .6; cursor: progress; }
+.btn.ghost { background: transparent; color: var(--accent); border: 1px solid var(--line); font-weight: 400; }
+.spin { width: 12px; height: 12px; border: 2px solid currentColor; border-right-color: transparent; border-radius: 50%; display: none; }
+.btn[disabled] .spin { display: inline-block; animation: rot .8s linear infinite; }
+@keyframes rot { to { transform: rotate(360deg); } }
+#refreshMsg.ok { color: var(--ok); } #refreshMsg.err { color: #c0392b; }
+.setup { margin-top: 10px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; max-width: 70ch; display: grid; gap: 8px; font-size: 14px; }
+.setup ol { margin: 0; padding-left: 20px; display: grid; gap: 4px; }
+.setup a { color: var(--accent); }
+.setup .row { display: flex; flex-wrap: wrap; gap: 8px; }
+.setup input { font: inherit; font-size: 14px; flex: 1 1 260px; min-width: 0; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 7px 10px; }
 .bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); padding-block: 10px; margin-bottom: 14px; border-bottom: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
 .bar input[type=search], .bar select { font: inherit; font-size: 14px; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 7px 10px; }
 .bar input[type=search] { flex: 1 1 220px; min-width: 0; }
@@ -111,7 +125,24 @@ footer a { color: var(--accent); }
   <header class="top">
     <div class="eyebrow">SPIEL Essen 2026 · Most Wanted</div>
     <h1>Spiel 2026 Top 50</h1>
-    <p class="lede">Die 50 meistgesuchten Spiele aus dem <a href="https://boardgamegeek.com/geeklist/381572/spiel-26-most-wanted-games-tracker" target="_blank" rel="noopener">BGG Most-Wanted-Tracker</a>, mit BGG-Bewertung, Komplexität, deutscher Ausgabe und Preisen bei Spiele-Offensive, Spielefürst und Spieletastisch. Stand: <span id="stand"></span>.</p>
+    <p class="lede">Die 50 meistgesuchten Spiele aus dem <a href="https://boardgamegeek.com/geeklist/381572/spiel-26-most-wanted-games-tracker" target="_blank" rel="noopener">BGG Most-Wanted-Tracker</a>, mit BGG-Bewertung, Komplexität, deutscher Ausgabe und Preisen bei Spiele-Offensive, Spielefürst und Spieletastisch. BGG-Daten vom <span id="stand"></span>.</p>
+    <div class="refresh">
+      <button class="btn" id="refreshBtn" type="button"><span class="spin" aria-hidden="true"></span><span>Verfügbarkeit jetzt abfragen</span></button>
+      <span>Preise geprüft: <b id="preiseStand"></b></span>
+      <span id="refreshMsg" role="status" aria-live="polite"></span>
+    </div>
+    <div class="setup" id="setup" hidden>
+      <b>Einmalig einrichten</b>
+      <span>Der Button startet auf GitHub die Abfrage der drei Shops. Dafür braucht diese Seite einen Schlüssel, der nur in deinem Browser gespeichert wird.</span>
+      <ol>
+        <li><a id="tokenLink" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Neuen Fine-grained Token anlegen</a>, Ablaufdatum nach Wunsch.</li>
+        <li>Bei „Repository access“ nur dieses Repo auswählen.</li>
+        <li>Unter „Permissions“ bei <b>Actions</b> „Read and write“ wählen, dann den Token erzeugen.</li>
+        <li>Den Token hier einfügen und speichern.</li>
+      </ol>
+      <div class="row"><input id="tokenInput" type="password" placeholder="github_pat_…" autocomplete="off" aria-label="GitHub-Token"><button class="btn" id="tokenSave" type="button">Speichern und abfragen</button></div>
+      <span>Ohne Token: <a id="runLink" target="_blank" rel="noopener">Abfrage direkt auf GitHub starten</a> („Run workflow“ klicken).</span>
+    </div>
   </header>
 
   <div class="bar" role="search">
@@ -138,8 +169,8 @@ footer a { color: var(--accent); }
 </div>
 
 <script>
-const DATA = /*DATA*/null;
-const META = /*META*/null;
+let DATA = /*DATA*/null;
+let META = /*META*/null;
 const SHOPS = ["Spiele-Offensive", "Spielefürst", "Spieletastisch"];
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -235,6 +266,61 @@ function render() {
 }
 
 $("#stand").textContent = META.stand;
+$("#preiseStand").textContent = META.preiseStand || META.stand;
+
+// ---- Shop-Abfrage über GitHub Actions
+const REPO = META.repo, WF = "aktualisieren.yml", API = "https://api.github.com/repos/" + REPO;
+const runPage = `https://github.com/${REPO}/actions/workflows/${WF}`;
+$("#runLink").href = runPage;
+const onPages = /\.github\.io$/.test(location.hostname);
+const store = { get() { try { return localStorage.getItem("spiel26-token") || ""; } catch (e) { return ""; } },
+                set(v) { try { v ? localStorage.setItem("spiel26-token", v) : localStorage.removeItem("spiel26-token"); } catch (e) {} } };
+const msg = (s, cls = "") => { const m = $("#refreshMsg"); m.textContent = s; m.className = cls; };
+const busy = b => { $("#refreshBtn").disabled = b; };
+const gh = (path, opt = {}) => fetch(API + path, { ...opt, headers: { Accept: "application/vnd.github+json", Authorization: "Bearer " + store.get(), ...(opt.headers || {}) } });
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+async function reloadData() {
+  for (let i = 0; i < 30; i++) {
+    try {
+      const r = await fetch("daten.json?t=" + Date.now(), { cache: "no-store" });
+      if (r.ok) { const d = await r.json(); if (d.meta.preiseStand !== META.preiseStand) { DATA = d.games; META = d.meta; $("#preiseStand").textContent = META.preiseStand; render(); return true; } }
+    } catch (e) {}
+    await sleep(10000);
+  }
+  return false;
+}
+
+async function startRefresh() {
+  if (!store.get()) { $("#setup").hidden = false; $("#tokenInput").focus(); return; }
+  busy(true); msg("Abfrage wird gestartet …");
+  const started = new Date(Date.now() - 5000).toISOString();
+  const r = await gh(`/actions/workflows/${WF}/dispatches`, { method: "POST", body: JSON.stringify({ ref: "main" }) });
+  if (r.status === 401 || r.status === 403 || r.status === 404) { busy(false); msg("Der Token wird von GitHub abgelehnt. Bitte neu einrichten.", "err"); store.set(""); $("#setup").hidden = false; return; }
+  if (!r.ok) { busy(false); msg("GitHub hat die Abfrage nicht gestartet (Fehler " + r.status + ").", "err"); return; }
+  let run = null;
+  for (let i = 0; i < 120; i++) {
+    await sleep(i < 3 ? 4000 : 10000);
+    try {
+      const l = await (await gh(`/actions/workflows/${WF}/runs?event=workflow_dispatch&per_page=5`)).json();
+      run = (l.workflow_runs || []).find(x => x.created_at >= started) || run;
+    } catch (e) {}
+    if (!run) { msg("Warte auf GitHub …"); continue; }
+    if (run.status !== "completed") { msg(run.status === "queued" ? "In der Warteschlange …" : "Shops werden abgefragt, das dauert ein paar Minuten …"); continue; }
+    if (run.conclusion !== "success") { busy(false); msg("Die Abfrage ist fehlgeschlagen. ", "err"); const a = document.createElement("a"); a.href = run.html_url; a.target = "_blank"; a.textContent = "Details auf GitHub"; $("#refreshMsg").append(a); return; }
+    msg("Abfrage fertig, neue Daten werden geladen …");
+    const ok = await reloadData();
+    busy(false);
+    msg(ok ? "Aktualisiert." : "Fertig. Bitte die Seite in ein paar Minuten neu laden.", "ok");
+    return;
+  }
+  busy(false); msg("Das dauert ungewöhnlich lange. Stand auf GitHub prüfen.", "err");
+}
+if (!onPages) {  // außerhalb von GitHub Pages: Button führt direkt zum Workflow auf GitHub
+  const a = Object.assign(document.createElement("a"), { className: "btn", href: runPage, target: "_blank", rel: "noopener", id: "refreshBtn", textContent: "Verfügbarkeit auf GitHub abfragen" });
+  $("#refreshBtn").replaceWith(a);
+} else $("#refreshBtn").addEventListener("click", () => startRefresh().catch(e => { busy(false); msg("Fehler: " + e.message, "err"); }));
+$("#tokenSave").addEventListener("click", () => { const v = $("#tokenInput").value.trim(); if (!v) return; store.set(v); $("#tokenInput").value = ""; $("#setup").hidden = true; startRefresh(); });
 $("#q").value = state.q; $("#sort").value = state.sort;
 $("#fde").checked = state.fde; $("#fnow").checked = state.fnow; $("#fshop").checked = state.fshop;
 $("#q").addEventListener("input", e => { state.q = e.target.value; render(); });

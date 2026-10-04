@@ -130,7 +130,8 @@ def so_product(url):
         avail = b.group(1) if b else ""
     low = avail.lower()
     now = bool(re.search(r"sofort lieferbar|auf lager", low)) and "vorbestell" not in low
-    rel = re.search(r"erwarten wir ca\. ([^.<]+)", avail) or re.search(r"erscheint (?:voraussichtlich )?([^.<]+)", avail)
+    rel = (re.search(r"erwarten wir ca\. ([^.<]+)", avail) or re.search(r"voraussichtlich ab ([^.<]+?) (?:wieder )?lieferbar", avail)
+           or re.search(r"erscheint (?:voraussichtlich )?([^.<]+)", avail))
     return {"productName": name, "url": url, "price": float(m.group(1)), "availabilityText": avail or None,
             "availableNow": now, "releaseDate": rel.group(1).strip() if rel and not now else None,
             "edition": edition_of(name, "DE")}
