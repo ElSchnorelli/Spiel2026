@@ -23,4 +23,5 @@ html = html.replace("/*DATA*/null", json.dumps(out, ensure_ascii=False)).replace
 os.makedirs(p("docs"), exist_ok=True)
 open(p("docs", "index.html"), "w", encoding="utf-8").write("<!doctype html>\n<html lang=\"de\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n" + html.replace("<style>", "<style>\nhtml,body{margin:0}img{max-width:100%}[hidden]{display:none!important}\n", 1) + "\n</html>\n")
 json.dump(out, open(p("docs", "spiel2026-daten.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+json.dump({"meta": meta, "games": out}, open(p("docs", "daten.json"), "w", encoding="utf-8"), ensure_ascii=False)
 print(f"{len(out)} Spiele -> docs/index.html")
