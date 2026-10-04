@@ -13,7 +13,7 @@ jobs:
           cd scripts && python3 -c "
           import shops
           for f in (shops.so_search, shops.st_search, shops.sf_search):
-              for q in ('Gaudi','Faraway','Mischwald'):
+              for q in ('Shugendo','Endeavor'):
                   print(f.__name__, q, f(q)[:6])
           "
-      - run: python3 scripts/shops.py
+      - run: python3 scripts/shops.py 14 20 37 48

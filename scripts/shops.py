@@ -118,7 +118,7 @@ def so_product(url):
     page = so_decode(r)
     m = re.search(r"name='uebergabe\[1\]\[3\]' value='([\d.]+)'", page) or re.search(r'"value": "([\d.]+)"', page)
     if not m:
-        return None
+        raise FetchError(f"{url}: Preis nicht lesbar")
     name = re.search(r'"item_name": "(.*?)"', page)
     name = json.loads(f'"{name.group(1)}"') if name else ""
     avail = ""
@@ -208,7 +208,7 @@ def st_product(url):
     price = re.search(r'class="price-current[^"]*">\s*([\d.,]+)\s*€', page)
     name = re.search(r'<h3[^>]*>\s*([^<]+?)\s*</h3>\s*<div class="prices', page)
     if not price or not name:
-        return None
+        raise FetchError(f"{url}: Preis nicht lesbar")
     dot = re.search(r'<i title="([^"]*)" class="game-availability-dot[^"]*text-(\w+)"', page)
     rel = re.search(r'Erscheinungsdatum:\s*</div>\s*<div class="game-details-property">\s*([^<]+?)\s*</div>', page)
     avail = html.unescape(dot.group(1)) if dot else None
@@ -240,6 +240,12 @@ def titles_for(game):
     return out
 
 
+def plausible(hit, game):
+    """Neu gefundene Produkte mit Erscheinungsjahr vor dem Spiel sind meist ein anderes Spiel gleichen Namens."""
+    year = re.search(r"(20\d\d)", hit.get("releaseDate") or "")
+    return not (year and game.get("yearPublished") and int(year.group(1)) < int(game["yearPublished"]))
+
+
 def check(game, shop, old):
     search, product = HANDLERS[shop]
     titles = titles_for(game)
@@ -254,8 +260,11 @@ def check(game, shop, old):
             if url in seen or not matches(name, titles, exp):
                 continue
             seen.add(url)
-            hit = product(url)
-            if hit and matches(hit["productName"] or name, titles, exp):
+            try:
+                hit = product(url)
+            except FetchError:
+                continue
+            if hit and matches(hit["productName"] or name, titles, exp) and plausible(hit, game):
                 return hit
     return None
 
