@@ -2,11 +2,12 @@ name: probe
 on:
   push:
     branches: [shop-abfrage]
-    paths: [scripts/probe.py, .github/workflows/probe.yml]
+    paths: [scripts/shops.py, .github/workflows/probe.yml]
 jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: pip install requests curl_cffi
-      - run: python3 scripts/probe.py
+      - run: pip install curl_cffi
+      - run: python3 scripts/shops.py 1 3 6 10 13 17 22 47 50
+      - run: git diff --stat; cat data/meta.json; python3 -c "import json;[print(json.dumps(s,ensure_ascii=False)) for p in (6,13,22) for s in json.load(open(f'data/rohdaten/{p}.json'))['shops']]"
