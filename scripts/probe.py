@@ -1,24 +1,28 @@
-import re, requests, urllib.parse
-H={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/128 Safari/537.36","Accept-Language":"de-DE,de;q=0.9"}
-s=requests.Session(); s.headers.update(H)
-def show(label, html, pats, w=500):
+import re, json, requests
+UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+H={"User-Agent":UA,"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","Accept-Language":"de-DE,de;q=0.9,en;q=0.8"}
+def show(label, html, pats, w=350, n=3):
     print(f"\n===== {label} len={len(html)}")
     for p in pats:
-        for m in list(re.finditer(p, html, re.I))[:2]:
+        for m in list(re.finditer(p, html, re.I))[:n]:
             print(f"--- [{p}] @{m.start()}"); print(re.sub(r'\s+',' ',html[max(0,m.start()-w):m.start()+w]))
-# Spiele-Offensive search + product
-r=s.get("https://www.spiele-offensive.de/index.php?cmd=suchergebnis&suchwort="+urllib.parse.quote("Gaudi".encode('latin-1')))
-r.encoding='iso-8859-1'; print("SO search",r.status_code,r.url)
-show("SO search", r.text, [r'/Spiel/[^"]+\.html', r'lieferbar', r'&euro;|€'])
-r=s.get("https://www.spiele-offensive.de/Spiel/Gaudi-1035458.html"); r.encoding='iso-8859-1'
-print("SO prod",r.status_code,r.url)
-links=re.findall(r'href="(https://www\.spiele-offensive\.de/Spiel/[^"]+)"', s.get("https://www.spiele-offensive.de/index.php?cmd=suchergebnis&suchwort=Gaudi").text)
-print("SO links",links[:10])
-if links:
-    r=s.get(links[0]); r.encoding='iso-8859-1'
-    show("SO product "+links[0], r.text, [r'itemprop="price"', r'"price"', r'lieferbar|Vorbestell|erscheint', r'application/ld\+json'], 400)
-# Spieletastisch product + search form
-r=s.get("https://www.spieletastisch.de/produkte/12254-gaudi-gaudi-de")
-show("ST product", r.text, [r'itemprop="price"', r'application/ld\+json', r'lieferbar|Vorbestell|Erscheinungsdatum'], 400)
-r=s.get("https://www.spieletastisch.de/")
-m=re.search(r'<form[^>]*id="form"[\s\S]*?</form>', r.text); print("\nST form:", m.group(0)[:3000] if m else None)
+u="https://www.spiele-offensive.de/index.php?cmd=suchergebnis&suchwort=Gaudi"
+r=requests.get(u,headers=H); print("SO requests",r.status_code); print(r.text[:600])
+try:
+    from curl_cffi import requests as cr
+    for imp in ["chrome","safari","firefox"]:
+        r=cr.get(u,impersonate=imp); print("SO curl_cffi",imp,r.status_code,len(r.text))
+        if r.status_code==200:
+            t=r.content.decode('iso-8859-1')
+            show("SO search", t, [r'/Spiel/[^"]+\.html', r'lieferbar|Vorbestell|erscheint', r'&euro;|€'])
+            links=re.findall(r'href="(?:https://www\.spiele-offensive\.de)?(/Spiel/[^"]+\.html)"', t); print("links",links[:8])
+            if links:
+                p=cr.get("https://www.spiele-offensive.de"+links[0],impersonate=imp).content.decode('iso-8859-1')
+                show("SO product", p, [r'itemprop="price"|"price"', r'application/ld\+json', r'lieferbar|Vorbestell|erscheint'])
+            break
+except Exception as e: print("curl_cffi err",e)
+p=requests.get("https://www.spieletastisch.de/produkte/12254-gaudi-gaudi-de",headers=H).text
+show("ST product", p, [r'\d+,\d\d\s*(&nbsp;)?(€|&euro;)', r'Erscheinungsdatum', r'lieferbar', r'og:|product:'], 300, 4)
+j=requests.get("https://spielefuerst.de/products/greenwood.js",headers=H); print("\nSF js",j.status_code,j.text[:300])
+j=requests.get("https://spielefuerst.de/search/suggest.json?q=Greenwood&resources[type]=product",headers=H).json()
+for x in j["resources"]["results"]["products"]: print("SF", x["title"], x["price"], x["available"], x["url"], x.get("tags"))
