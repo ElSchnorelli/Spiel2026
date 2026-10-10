@@ -27,7 +27,7 @@
    "availabilityText": null,
    "availableNow": false,
    "releaseDate": null,
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -39,7 +39,7 @@
    "availabilityText": null,
    "availableNow": false,
    "releaseDate": null,
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   },
   {
    "shop": "Spieletastisch",
@@ -51,7 +51,7 @@
    "availableNow": false,
    "releaseDate": "Oktober 2026",
    "edition": "EN",
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   }
  ],
  "notes": "BGG versions list only English (Alion – by Dr Ø); no German edition listed. Spieletastisch sells EN edition only. Spiele-Offensive scrape returned implausible placeholder items (Istanbul, Ark Nova, Catan, Wingspan with 2023 dates) -> treated as not found. Spielefürst: no match."

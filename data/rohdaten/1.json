@@ -28,12 +28,12 @@
    "found": true,
    "productName": "-60° (de) ",
    "url": "https://www.spiele-offensive.de/Spiel/60-de-1035033.html",
-   "price": 71.89,
+   "price": 82.99,
    "availabilityText": "jetzt vorbestellen . \"-60°\" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
    "availableNow": false,
    "releaseDate": "Ende Oktober 2026",
    "edition": "DE",
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -45,7 +45,7 @@
    "availabilityText": null,
    "availableNow": false,
    "releaseDate": null,
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   },
   {
    "shop": "Spieletastisch",
@@ -57,7 +57,7 @@
    "availableNow": false,
    "releaseDate": "Oktober 2026",
    "edition": "DE",
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   }
  ],
  "notes": "Search snippet for Spieletastisch listed Erscheinungsdatum Oktober 2026, but product page scrape says Dezember 2026. Searched SO/Spielefürst for '-60°' and '60 Below': no match."

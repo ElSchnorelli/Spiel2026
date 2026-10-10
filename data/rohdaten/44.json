@@ -28,12 +28,12 @@
    "found": true,
    "productName": "Cubaneo ",
    "url": "https://www.spiele-offensive.de/Spiel/Cubaneo-1034975.html",
-   "price": 44.89,
+   "price": 46.99,
    "availabilityText": "jetzt vorbestellen . \"Cubaneo \" ist voraussichtlich ab Ende Oktober 2026 lieferbar.",
    "availableNow": false,
    "releaseDate": "Ende Oktober 2026",
    "edition": "DE",
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -45,7 +45,7 @@
    "availableNow": false,
    "releaseDate": null,
    "edition": "DE",
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   },
   {
    "shop": "Spieletastisch",
@@ -57,7 +57,7 @@
    "availableNow": false,
    "releaseDate": "Oktober 2026",
    "edition": "DE",
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   }
  ],
  "notes": "German edition from shop data (Pegasus Spiele per Spiele-Offensive, Deep Print Games per Spieletastisch); BGG versions page not scraped (rate limit). Spielefürst: not found."

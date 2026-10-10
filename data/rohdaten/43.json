@@ -28,7 +28,7 @@
    "availableNow": false,
    "releaseDate": "Ende November 2026",
    "edition": "EN",
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -40,7 +40,7 @@
    "availabilityText": null,
    "availableNow": false,
    "releaseDate": null,
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   },
   {
    "shop": "Spieletastisch",
@@ -52,7 +52,7 @@
    "availableNow": false,
    "releaseDate": "Juni 2026",
    "edition": "EN",
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   }
  ],
  "notes": "BGG versions list only English (Allplay/BNW) editions; no German edition yet. Spielefürst search returned only unrelated items. Shop availability text via WebFetch summaries (paraphrased in part)."

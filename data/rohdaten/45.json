@@ -27,7 +27,7 @@
    "availabilityText": null,
    "availableNow": false,
    "releaseDate": null,
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   },
   {
    "shop": "Spielefürst",
@@ -39,7 +39,7 @@
    "availabilityText": null,
    "availableNow": false,
    "releaseDate": null,
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   },
   {
    "shop": "Spieletastisch",
@@ -51,7 +51,7 @@
    "availableNow": false,
    "releaseDate": "Oktober 2026",
    "edition": "EN",
-   "checkedAt": "2026-10-04T10:59+02:00"
+   "checkedAt": "2026-10-10T16:24+02:00"
   }
  ],
  "notes": "Only 3 ratings; weight not available (0 on BGG -> null). BGG versions page not scraped (rate limit); German edition not known, Spieletastisch lists EN (Publishing Technology & Solution). Spiele-Offensive/Spielefürst: no match."
